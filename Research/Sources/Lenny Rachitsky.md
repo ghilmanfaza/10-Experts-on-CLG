@@ -4,7 +4,7 @@
 
 A former product leader turned writer, investor, and advisor. Unlike others, Lenny is more of a practitioner on community building. He uses community for learning, peer connection, and maintaining retention as proven by his **[newsletter](https://www.lennysnewsletter.com/)**.
 
-
+Lenny operates on a content wheel; content (newsletter) --> audience --> community --> insights --> better content.
 
 ---
 
