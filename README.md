@@ -1,1 +1,5 @@
 # 10-Experts-on-CLG
+
+I chose these experts because they share the same core priciple; the importance and power of community in business, even though these experts has their own framework to utilize their community. Community is about relationship, they're not just audience or as simple as "numbers in the metric".
+
+Even experts like Carrie, Spinks, Lenny, and Venessa, which is very data driven, agrees that belonging is the core driver. If people/community members don't feel they belong, nothing else works. Company/business unit should not position themselves as owner, but as facilitator/architect. 
