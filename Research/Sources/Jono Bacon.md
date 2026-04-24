@@ -10,4 +10,6 @@
 
 * [Youtube](https://youtube.com/@jonobacon?si=m02RUTkFkBoOofsN)
 
+* [Personal web](https://www.jonobacon.com/)
+
 * [X](https://x.com/jonobacon)
