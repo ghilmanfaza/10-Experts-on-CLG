@@ -2,7 +2,10 @@
 
 ---
 
+A veteran community builder best known for his work in open source communities, consultant, bookwriter, and founded **[Stateshift](https://www.stateshift.com/)**. 
 
+
+Unlike Jason Lemkin, his approach is more conservative and practical. Starting out small, implement clear structure, bringing the community up the ladder. He pushes the importance of contributors, because communities are built by contributors. 
 
 ---
 
