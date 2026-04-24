@@ -4,7 +4,7 @@
 
 A community strategist, researcher, and advisor known for bringing depth, ethics, and social impact thinking into community building. She also founded **[Community Community](https://thecommunitycommunity.com/)** and worked with organization such as Australian Government, bringing community thinking into public policy and civic engagement.
 
-
+She sees community as social infrastructure, not just growth tools. It needs to be caress with awareness and 
 
 ---
 
