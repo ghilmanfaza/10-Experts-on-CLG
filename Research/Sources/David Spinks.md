@@ -3,7 +3,7 @@
 ---
 
 
-One of the pioneers of CLG in tech.
+One of the pioneers of CLG in tech and is currently the CEO of Bevy. He's been building communities since 2010 and helped turn "community" into a serious business function, not just a side marketing effort.
 
 ---
 
