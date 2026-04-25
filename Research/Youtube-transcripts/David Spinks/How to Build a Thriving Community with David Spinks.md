@@ -969,382 +969,759 @@
 00:18:36 understand how to start conversations,
 
 00:18:38 manage conversations, how to manage
+
 00:18:39 conflict, uh, how to build communities
+
 00:18:42 that are inclusive and identify the
+
 00:18:44 things that are making them uninclusive
+
 00:18:46 in ways that are inequitable or unjust.
+
 00:18:48 Um, so that's the work of actually
+
 00:18:52 interacting with humans, and that's
+
 00:18:54 critical for this work. Um, one element
+
 00:18:56 of that that's really hard to navigate,
+
 00:18:58 but you're going to have to, is the
+
 00:19:00 extent to which they have an authentic
+
 00:19:02 connection to that community
+
 00:19:04 specifically? Um, are they a member of
+
 00:19:06 that community? Do they understand it?
+
 00:19:08 Can they speak their language? Are the
+
 00:19:10 community members going to respect them
+
 00:19:12 as one of them? Um, it doesn't have to
+
 00:19:15 be that way, especially for mature
+
 00:19:17 community. bringing in people who are
+
 00:19:19 more operational and less like one of
+
 00:19:21 the members can be okay. Um, but there's
+
 00:19:26 going to be a learning curve for someone
+
 00:19:27 who has no experience in the space. Say
+
 00:19:30 it's a community for basketball players
+
 00:19:32 and they've never played basketball or
+
 00:19:34 watched a game of basketball in their
+
 00:19:35 life. It's going to be hard for them to
+
 00:19:37 get up to speed on how to connect with
+
 00:19:38 those people and understand them as
+
 00:19:40 opposed to someone who is already
+
 00:19:42 authentically organically immersed in
+
 00:19:44 that topic. Um so that's the one layer
+
 00:19:47 is the community engagement side and
+
 00:19:48 then the other layer I would look for is
+
 00:19:50 their operational abilities. Um which
+
 00:19:53 like any other role right like what are
+
 00:19:55 they able to set up the systems in order
+
 00:19:57 to manage communities as they grow and
+
 00:19:59 scale. Um can they track things
+
 00:20:02 properly? Do they understand how to look
+
 00:20:04 at analytics behind communities to
+
 00:20:06 understand how the community is growing
+
 00:20:08 and evolving? Do they know how to run
+
 00:20:10 community surveys to collect feedback
+
 00:20:12 and see if the community is healthy? um
+
 00:20:14 are they able to communicate crossf
+
 00:20:16 functionally with the rest of the team
+
 00:20:18 and understand how community integrates
+
 00:20:19 with marketing and support and product
+
 00:20:22 and all the other parts of the business
+
 00:20:24 because community is a very
+
 00:20:25 crossunctional role. Um so yeah those
+
 00:20:28 two sides is kind of the front end
+
 00:20:30 community engagement side and then the
+
 00:20:32 backend more operational side.
+
 00:20:35 Do you think
+
 00:20:37 sometimes that's two people or is it
+
 00:20:38 sometime is it always the person because
+
 00:20:41 some people person could be really good
+
 00:20:43 expertise great community builder and
+
 00:20:46 they just suck operationally or um does
+
 00:20:49 that person have to be an
+
 00:20:50 operational-minded person and uh
+
 00:20:54 same as any other role, right? If you're
+
 00:20:56 a brand new startup, you're going to
+
 00:20:57 hire one person to do a lot of things
+
 00:20:59 and they're probably going to be doing
+
 00:21:00 more than community unfortunately. Um, a
+
 00:21:02 lot of the time community managers end
+
 00:21:04 up managing support and social media,
+
 00:21:07 which they really don't like doing, but
+
 00:21:08 they get forced to anyway. Um, uh, you
+
 00:21:12 know, if you're a really small team with
+
 00:21:14 very minimal resources, people wear
+
 00:21:16 multiple hats. Um, but if your community
+
 00:21:18 becomes mature and your company can
+
 00:21:20 really invest in community and make it a
+
 00:21:22 priority. Um, I know teams that have 20,
+
 00:21:24 30 people on their community team that
+
 00:21:27 are highly specialized. You might have
+
 00:21:29 people who focus on events, some people
+
 00:21:30 who focus on ambassador programs, some
+
 00:21:32 people who focus on online community and
+
 00:21:34 forums, some people who just focus on
+
 00:21:36 the data behind the community. Um,
+
 00:21:38 there's a lot of specializations within
+
 00:21:40 community that people can take on.
+
 00:21:44 What are some reasons you tell people to
+
 00:21:48 make that investment in community? What
+
 00:21:50 are what the reason why? Because
+
 00:21:53 marketers always are judged on, hey,
+
 00:21:57 what is the ROI of this community? Like,
+
 00:22:00 how am I going to get value out of it?
+
 00:22:01 What what do you what do you say to
+
 00:22:04 people when they um say why I should
+
 00:22:08 invest in this? I've stopped trying to
+
 00:22:10 convince people a long time ago to
+
 00:22:12 invest in community. I find that there
+
 00:22:14 are people who believe that it's a great
+
 00:22:16 channel and a great way to connect with
+
 00:22:18 people that um is really important in
+
 00:22:20 the mix of creating content and doing
+
 00:22:24 advertising and SEO like there's a lot
+
 00:22:26 of this kind of outbound approach um and
+
 00:22:29 inbound approaches to marketing but
+
 00:22:31 community just provides this completely
+
 00:22:33 different element of how people connect
+
 00:22:36 with your brand and with each other. I
+
 00:22:39 mean you can look at some of the most
+
 00:22:41 successful brands in the world like you
+
 00:22:42 know the Apples of the world or HubSpot
+
 00:22:45 and the B2B side like community was so
+
 00:22:47 core to how they grew from their very
+
 00:22:51 earliest days. So it's it's kind of a
+
 00:22:54 DNA thing. Some companies really believe
+
 00:22:56 in it and get it. And I think to some
+
 00:22:58 extent you have to believe in it. It
+
 00:23:00 can't just be a pure ROI question
+
 00:23:02 because community is complexity man.
+
 00:23:05 there's an infinite amount of
+
 00:23:07 interactions and relationships. It's
+
 00:23:09 going to be really hard to prove that
+
 00:23:12 having this highly engaged community led
+
 00:23:14 to this increase in renewals or this
+
 00:23:16 increase in leads. Um, and I've spent so
+
 00:23:19 many hours working to bring more clarity
+
 00:23:23 and and get more more clear attribution
+
 00:23:26 for community channels and it's just
+
 00:23:28 super hard. Um, events are can be a
+
 00:23:31 little bit easier because again they
+
 00:23:32 have a beginning and an end. So you can
+
 00:23:34 see what kind of action you want people
+
 00:23:35 to take after attending an event and see
+
 00:23:37 if they take that action within 10 days
+
 00:23:40 or within 90 days. Like did they sign up
+
 00:23:42 for your product within 90 days of
+
 00:23:43 attending an event? Okay, you could
+
 00:23:45 probably give that some attribution in
+
 00:23:47 an online forum. Are is there
+
 00:23:50 participation leading them to spend more
+
 00:23:52 with your company? You could get
+
 00:23:54 correlation on that, right? and say,
+
 00:23:56 "Well, the people who are part of the
+
 00:23:57 community spend two times more than
+
 00:23:59 people who aren't, but it's
+
 00:24:00 correlation." You don't know if that's
+
 00:24:01 just because they're your more valuable
+
 00:24:04 customers and that's why they
+
 00:24:05 participate in the community. So, there
+
 00:24:07 just has to be a belief that uh building
+
 00:24:11 this long-term
+
 00:24:14 shared identity sense of community is
+
 00:24:18 something that's going to be a
+
 00:24:19 competitive advantage for you. It's
+
 00:24:21 going to help you own uh a category in a
+
 00:24:25 way that no one else can. The way
+
 00:24:27 HubSpot did with Inbound or um the way
+
 00:24:30 Salesforce did with cloud software in
+
 00:24:32 their early days like they built an
+
 00:24:34 entire community and identity around
+
 00:24:35 being the first cloud software company.
+
 00:24:38 Um
+
 00:24:40 it's just a honestly a fundamental
+
 00:24:42 different way of looking at business and
+
 00:24:45 how to build trust and reputation with
+
 00:24:48 people. Um and it it can also drive
+
 00:24:52 other parts of your business. So we use
+
 00:24:54 the spaces model within b within CMX. Um
+
 00:24:57 so spaces stands for support, product,
+
 00:25:00 acquisition contribution engagement
+
 00:25:02 and success. Um and so community can
+
 00:25:05 drive all of those things or any of
+
 00:25:07 those things for your business, right?
+
 00:25:08 Product um they can help build your
+
 00:25:11 product. For some companies, your entire
+
 00:25:13 product is built by a community like
+
 00:25:15 Airbnb. All the all the rooms are
+
 00:25:18 provided by hosts. Lift all the cars are
+
 00:25:21 provided by drivers. Uh GitHub is the
+
 00:25:24 entire uh community ecosystem. Anything
+
 00:25:26 open source, anything that's a
+
 00:25:28 marketplace, anything that's
+
 00:25:29 collaborative consumption, anything
+
 00:25:31 that's uh like Wikipedia, like a wiki
+
 00:25:34 content contribution platform. Um you're
+
 00:25:37 going to have creators, sellers, uh
+
 00:25:40 people who are contributing the thing
+
 00:25:42 that makes your business work. Community
+
 00:25:44 is you have to build community, right?
+
 00:25:47 It's like a core part of what you're
+
 00:25:48 doing. Um, and then if you have a
+
 00:25:51 product that isn't community, like say
+
 00:25:52 you're Nike, you have the opportunity to
+
 00:25:54 build community around the identity like
+
 00:25:57 how Nike does with their run clubs for
+
 00:26:00 example, you're not showing up to a Nike
+
 00:26:02 run club with Adidas shoes on, right?
+
 00:26:03 You're you're creating more brand
+
 00:26:05 loyalty and you're creating these shared
+
 00:26:07 experiences for people through
+
 00:26:09 community.
+
 00:26:11 Yeah. I I think the what you said at the
+
 00:26:14 beginning of that you don't try to
+
 00:26:18 convince people anymore. It's the same
+
 00:26:19 with brand. It's same with creating
+
 00:26:22 valuable content. It's the same with
+
 00:26:24 it's these things that you have to do a
+
 00:26:27 long time to build trust, build
+
 00:26:29 relationship. Relationships don't happen
+
 00:26:33 to overnight. They happen through
+
 00:26:35 continuous work and um show shing up
+
 00:26:40 daily. It's not that. And I think the
+
 00:26:43 people who get that win and the people
+
 00:26:44 who don't get that just keep doing what
+
 00:26:47 they're doing. So I I think it's true. I
+
 00:26:49 think the same with brand when people
+
 00:26:51 say why should I invest in brand to me.
+
 00:26:53 I'm like I can't I I could give you
+
 00:26:56 millions of examples why you should do
+
 00:26:58 it. But you if your whole thing is going
+
 00:27:00 to be get a sale tomorrow, I can yeah
+
 00:27:03 help you with that. Yeah, we've gotten
+
 00:27:05 to this point in business where it's all
+
 00:27:06 so extractive and all about attribution
+
 00:27:08 and knowing exactly how this
+
 00:27:10 contribution that you're this thing
+
 00:27:12 you're building or this thing you decide
+
 00:27:14 to invest and exactly what the ROI is.
+
 00:27:16 And we've lost like the intuition for
+
 00:27:19 what people actually want,
+
 00:27:22 right? Like Apple doesn't know whether
+
 00:27:24 the the shape of the curve on the corner
+
 00:27:26 of their laptop is going to translate to
+
 00:27:29 two two to three million more dollars.
+
 00:27:31 They just like this is beautiful. this
+
 00:27:34 is aesthetic, this is what we believe
+
 00:27:35 people want. And you can test those
+
 00:27:37 things as well to see what people want.
+
 00:27:40 But yeah, like design brand is a really
+
 00:27:42 good example where
+
 00:27:45 I can't tell you what the ROI is of
+
 00:27:48 improving your design and the aesthetic
+
 00:27:50 of your website. You have to just
+
 00:27:52 believe in the power of design. And I
+
 00:27:54 think community is in many ways similar
+
 00:27:57 of if you have this thriving community
+
 00:28:00 of people who believe in your mission
+
 00:28:02 and who love your product and want to
+
 00:28:04 talk to each other and are trading ideas
+
 00:28:06 and how to use your product better and
+
 00:28:08 are just organically advocating for you
+
 00:28:10 because they feel like they're a part of
+
 00:28:12 something.
+
 00:28:13 Do you need to see the data on exactly
+
 00:28:16 what the ROI is on that to know that
+
 00:28:18 it's valuable? No. You just you just
+
 00:28:21 know.
+
 00:28:23 Yeah. Yeah, I think we got into a phase
+
 00:28:25 of being
+
 00:28:27 that's why I hate when people say
+
 00:28:28 datadriven marketer data because I think
+
 00:28:31 it's data informed. I think the whole
+
 00:28:33 thing about humans is humans are
+
 00:28:36 unpredictable. So data only tells you
+
 00:28:38 what humans did in the past that it
+
 00:28:41 doesn't tell you what humans are going
+
 00:28:42 to do and you have to be you have to be
+
 00:28:45 do unpredictable things like humans to
+
 00:28:48 stand out. You can't be would do what
+
 00:28:51 everybody else is doing because that's
+
 00:28:52 the logical thing and everybody will do
+
 00:28:54 it because it's logical because five
+
 00:28:56 other people did it and it's proven. You
+
 00:28:59 have to do unpredictable things to stand
+
 00:29:01 out because humans aren't predictable.
+
 00:29:03 They're not logical creatures. They make
+
 00:29:06 sometimes logical decisions but not all
+
 00:29:08 the time. So, uh, the last question I
+
 00:29:12 have for you is what is a community heal
+
 00:29:15 you would die on?
+
 00:29:19 Um, I think so I guess two two things
+
 00:29:22 come to mind. One is um,
+
 00:29:25 similar to what we were just talking
+
 00:29:26 about with measuring ROI, also with
+
 00:29:29 measuring community. People try to find
+
 00:29:31 this like one metric that is going to
+
 00:29:34 tell them whether or not their community
+
 00:29:35 is healthy. And again, I think you just
+
 00:29:38 need to lean on your intuition and and
+
 00:29:40 look at data as something that informs,
+
 00:29:43 not decides. And so I recommend that
+
 00:29:46 people get a portfolio of metrics that
+
 00:29:48 they look at. So it's not just total
+
 00:29:50 number of posts or total number of
+
 00:29:52 comments or total number of members. Um
+
 00:29:55 it's all of those things. It's your
+
 00:29:57 monthly active members. It's looking at
+
 00:29:59 the quality of those contributions. It's
+
 00:30:01 doing interviews and running surveys.
+
 00:30:04 Um, so I don't I just don't think
+
 00:30:06 there's one metric that's going to ever
+
 00:30:07 tell you whether or not a community is
+
 00:30:09 healthy or not. And frankly, a lot of
+
 00:30:11 the time you don't even need data. You
+
 00:30:12 can feel it. You can use your heart to
+
 00:30:15 know whether or not a community is
+
 00:30:16 healthy. Um, so I find myself dying on
+
 00:30:20 that hill a lot when I have clients that
-00:30:22 that are like, "All right, like what's
+
 00:30:24 the one metric we should be looking at?"
+
 00:30:25 And I have to do a lot of kind of
+
 00:30:27 unlearning around this idea that there's
+
 00:30:28 a one metric that matters when when it
+
 00:30:30 comes to community. Um, and then the
+
 00:30:33 other thing that came to mind is just do
+
 00:30:36 build communities that bring you joy.
+
 00:30:40 I think it's kind of like same in in the
+
 00:30:43 world of business. Sometimes people
+
 00:30:45 build businesses because they see it as
+
 00:30:46 an opportunity, but they don't feel joy
+
 00:30:49 from it and they kind of force
+
 00:30:50 themselves to do it anyway because it's
+
 00:30:51 an opportunity. I think community is
+
 00:30:54 much the same way. Community becomes
+
 00:30:56 pretty easy to build when it's something
+
 00:30:59 you genuinely crave and find joy in
+
 00:31:01 yourself. You're going to want to show
+
 00:31:03 up every day and have these
+
 00:31:04 conversations probably because they're
+
 00:31:06 conversations you're already having and
+
 00:31:08 already enjoying. But when you try to
+
 00:31:10 build a community just because it's an
+
 00:31:12 opportunity and you don't feel a genuine
+
 00:31:15 care for the people that you're bringing
+
 00:31:17 together and you don't feel genuine joy
+
 00:31:20 out of being in that space and
+
 00:31:21 participating in it, it's going to feel
+
 00:31:24 so hard to get it going. It's going to
+
 00:31:26 feel like a job. And I don't think
+
 00:31:28 that's a very uh effective way to build
+
 00:31:31 community.
+
 00:31:33 I think that that one's crucial. So, I
+
 00:31:36 think I say the same thing about content
+
 00:31:37 creators, too. Cuz now there's like
+
 00:31:39 everybody wants to be a content creator
+
 00:31:41 is don't just do it because there's a a
+
 00:31:44 hole in the space for a certain niche.
+
 00:31:47 You have to if you want to survive for
+
 00:31:49 two, three, four years, you have to
+
 00:31:51 legitimately be passionate about what
+
 00:31:53 you're talking about, what you're
+
 00:31:54 creating. Otherwise, you're going to
+
 00:31:57 burn out because on days that are hard,
+
 00:32:00 you're going to start hating what you're
+
 00:32:01 talking about. So generally having
+
 00:32:03 passion about anything you create is so
+
 00:32:07 important. Um 100%.
+
 00:32:10 Uh lastly, where can people find you and
+
 00:32:12 what you're doing? Yeah, just go to
+
 00:32:14 davidspinx.com.
+
 00:32:15 You can find my newsletter there. I
+
 00:32:17 publish a regular newsletter on
+
 00:32:18 community and human connection and
+
 00:32:20 business and um self-growth and
+
 00:32:23 improvement and consciousness kind of
+
 00:32:25 stuff as well. and um and my book, The
+
 00:32:28 Business of Belonging, which goes deep
+
 00:32:30 into all of these concepts around how to
+
 00:32:32 build community for your business. You
+
 00:32:33 can find that on the website as well.
+
 00:32:36 Cool. Well, thank you so much for
+
 00:32:37 joining. I appreciate your time and your
+
 00:32:40 views on community. I think it was
+
 00:32:42 really refreshing to hear. Appreciate
+
 00:32:45 you having me.
+
 00:32:47 [Music]
+
 00:32:54 Hey,
+
 00:32:59 [Music]
+
 00:33:00 hey hey.
+
 00:33:04 [Music]
