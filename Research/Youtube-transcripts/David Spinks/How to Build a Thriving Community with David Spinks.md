@@ -419,280 +419,555 @@
 00:08:21 long-term commitment. It's going to take
 
 00:08:23 a long time for that community to really
+
 00:08:26 take form within that conversational
+
 00:08:28 space. And so I wouldn't launch that
+
 00:08:30 until for one you have somebody who's
+
 00:08:34 going to be able to dedicate themselves
+
 00:08:36 to leading that community space to
+
 00:08:39 facilitating it to driving engagement.
+
 00:08:41 If you don't have the capacity to have
+
 00:08:44 someone dedicate at least half of their
+
 00:08:47 time if you're very early stage but
+
 00:08:49 eventually it should be at least a
+
 00:08:50 full-time job um to facilitating that
+
 00:08:53 community. You're probably not ready for
+
 00:08:55 it yet. Um, but what you can do again is
+
 00:08:57 start really simple. So I wouldn't start
+
 00:09:00 with like a really complex forum and
+
 00:09:02 ecosystem with lots of channels and
+
 00:09:04 spaces and structures and loginins.
+
 00:09:07 Start simple with like I love like using
+
 00:09:09 a WhatsApp group or a signal group. Um,
+
 00:09:12 you could use Slack if if you want
+
 00:09:14 something with a little bit more
+
 00:09:15 structure. um just somewhere that's
+
 00:09:18 really low barrier to get people to
+
 00:09:20 start talking to each other and start
+
 00:09:22 forming those relationships and that
+
 00:09:24 shared identity and those elements of
+
 00:09:25 community because if you have a really
+
 00:09:27 thriving chat group for example, it will
+
 00:09:30 be easier to then translate that into
+
 00:09:32 more of a structured formal community
+
 00:09:34 later.
+
 00:09:36 I do like that you said that you start
+
 00:09:38 off with events. I think they a lot of
+
 00:09:41 people just try to force the online
+
 00:09:44 portion of it. But I think being able to
+
 00:09:46 especially in this day and age, being
+
 00:09:48 able to connect people live is one of
+
 00:09:51 the most powerful things you could do,
+
 00:09:52 especially with people craving that
+
 00:09:54 right now. So, exactly. People are
+
 00:09:56 really craving, especially in person
+
 00:09:58 right now. People are hungry for it.
+
 00:10:00 They're they're over co even though it's
+
 00:10:02 spreading like wildfire. I'm sick right
+
 00:10:04 now from it, but uh everyone wants to
+
 00:10:07 get together in person. see people live,
+
 00:10:10 like actually have all their senses
+
 00:10:13 activated when they interact with each
+
 00:10:14 other. And um so there's a massive
+
 00:10:17 opportunity right now to build in-person
+
 00:10:20 experiences. I think that's what people
+
 00:10:22 really want. Also, I think it's a good
+
 00:10:24 way to show how intentional the audience
+
 00:10:28 you have is because if you host an event
+
 00:10:31 and you see who shows up, you could see,
+
 00:10:34 hey, people actually care about what
+
 00:10:36 we're doing, our values, they have
+
 00:10:39 shared beliefs. You could see who comes
+
 00:10:41 into the room where if you set it
+
 00:10:43 online, it's a little harder to see
+
 00:10:45 that. But if you to get someone in a
+
 00:10:48 room is one of the hardest things to do
+
 00:10:50 as a anybody. So if you can if you if
+
 00:10:54 you build a great audience, it's it's
+
 00:10:56 way easier to get someone in the room.
+
 00:10:58 So you show that intention of your
+
 00:11:00 community that you build. Exactly. Yeah.
+
 00:11:02 The barrier to entry is higher, right?
+
 00:11:04 It takes more work for somebody to show
+
 00:11:06 up to a physical event, but once they're
+
 00:11:09 in the room, it's a much more immersive
+
 00:11:10 experience. In a Slack group, you hope
+
 00:11:13 to get them in there for maybe five
+
 00:11:14 minutes to read what's in there and
+
 00:11:16 respond, and then they're going to go on
+
 00:11:17 with their life. with an event you can
+
 00:11:19 get two, three hours of deep
+
 00:11:21 conversations with people. Um, and
+
 00:11:24 again, you're activating all five
+
 00:11:25 senses. You're really building
+
 00:11:27 relationships and tapping into you're
+
 00:11:29 building memories, shared experiences
+
 00:11:31 with them. It's so much more powerful
+
 00:11:33 than just passive online experiences.
+
 00:11:36 Um, I actually think online experiences
+
 00:11:38 are are really good in complement to
+
 00:11:41 those inerson events where the in-person
+
 00:11:44 experiences give people depth and an
+
 00:11:46 opportunity to really form relationships
+
 00:11:48 and feel like they're a part of
+
 00:11:49 something and then the online space just
+
 00:11:51 becomes a way of staying in touch in
+
 00:11:53 between those experiences.
+
 00:11:55 I think that's a great way to put it. I
+
 00:11:57 think too many people just focus on one
+
 00:11:59 or the other. But they are great
+
 00:12:01 compliments and it's also you can
+
 00:12:05 you want a way for people to be able to
+
 00:12:08 connect. For example, I just went to
+
 00:12:10 this like leadership off site and I met
+
 00:12:13 a couple people but I forgot their name
+
 00:12:14 and then I went to the Slack group that
+
 00:12:17 they they created found them there. Y
+
 00:12:20 started chatting with them on there. So
+
 00:12:22 it was it was kind of a a good
+
 00:12:25 experience of having online and offline
+
 00:12:28 at the same time where I can go find
+
 00:12:30 them. So gave you a chance to follow up
+
 00:12:33 and have followth through which is a
+
 00:12:34 really critical part of forming
+
 00:12:36 serendipity in communities. I think a
+
 00:12:38 lot about how to engineer serendipity
+
 00:12:40 and the science behind serendipity is
+
 00:12:42 there's different stages. Um, so you
+
 00:12:44 have a trigger. So like you have to see
+
 00:12:47 an opportunity for a reason to connect
+
 00:12:49 with someone. And then you have to have
+
 00:12:51 a connection to some potential value
+
 00:12:53 like, oh, there's something we could
+
 00:12:54 work on or ways we can help each other.
+
 00:12:56 And the third step is follow through.
+
 00:12:58 Um, you have to follow up with that
+
 00:13:00 person on chat or email or however, set
+
 00:13:03 up the next meeting. Um, and then and
+
 00:13:06 then you have the valuable reward as a
+
 00:13:08 result. And um and so having that online
+
 00:13:12 ecosystem makes it a lot easier for the
+
 00:13:15 people who meet in person to follow up
+
 00:13:17 and follow through with each other um in
+
 00:13:20 order to have these kind of
+
 00:13:21 serendipitous moments and and create
+
 00:13:23 value for each other.
+
 00:13:25 I think one thing that I get asked a lot
+
 00:13:28 is when they when people start community
+
 00:13:30 is how do you start fueling that
+
 00:13:34 conversation in the community and how do
+
 00:13:37 you do do you is should you seed it with
+
 00:13:40 certain members? How do you start
+
 00:13:42 getting actual content in the community
+
 00:13:44 so people don't arrive and say, "Oh,
+
 00:13:47 there's three people chatting in here.
+
 00:13:49 This is lame. I'm I'm out of here." Hey,
+
 00:13:52 three people. Some of my favorite
+
 00:13:53 communities in the world are three
+
 00:13:55 people. It's about the right people who
+
 00:13:56 actually genuinely want to be there. So,
+
 00:13:59 I I personally think it's a lot less
+
 00:14:01 about like seeding the perfect content
+
 00:14:03 and knowing exactly how to set it all
+
 00:14:04 up. It's so much more about finding the
+
 00:14:07 right people who have a genuine
+
 00:14:08 motivation to contribute who meet a
+
 00:14:12 certain bar of um quality or alignment
+
 00:14:16 with a community. Um so, are the things
+
 00:14:18 they're contributing going to be at a
+
 00:14:20 high level? Are they going to be
+
 00:14:21 authentic? Um, are they going to be
+
 00:14:23 true? Are they coming with a giving
+
 00:14:25 mindset and not just trying to extract
+
 00:14:27 value? Um, and if you create that even
+
 00:14:31 with three people, that's going to be
+
 00:14:32 super powerful because now you have
+
 00:14:35 really high quality people actively
+
 00:14:36 engaged in exchanging their wisdom with
+
 00:14:39 each other and supporting each other.
+
 00:14:41 Who wouldn't want to be a part of that,
+
 00:14:43 right? And then you add a fourth person
+
 00:14:44 and they're going to see wow there's
+
 00:14:46 like people actively engage here and the
+
 00:14:48 things they're sharing I'm immediately
+
 00:14:50 learning from like that that's you
+
 00:14:53 essentially create a center of gravity
+
 00:14:55 that pulls people in and other people
+
 00:14:57 want to be a part of. So um again I
+
 00:15:01 would focus on getting those right
+
 00:15:02 people in. And a lot of the time it's
+
 00:15:04 solving your own problem. like some of
+
 00:15:06 the best communities I've seen built and
+
 00:15:08 that I've been able to start is just a
+
 00:15:10 conversation that I was craving that I
+
 00:15:13 didn't have a space to have and and I
+
 00:15:16 didn't find it anywhere else. So, and I
+
 00:15:18 but I would have those conversations
+
 00:15:20 one-on-one with people and and so
+
 00:15:23 eventually, you know, I have the same
+
 00:15:25 conversation with 10 different people
+
 00:15:26 individually.
+
 00:15:28 My it always clicks for me like, wait,
+
 00:15:31 maybe I should just get us all together
+
 00:15:32 into a room. I think you'll all get
+
 00:15:33 along really well. And that is the art.
+
 00:15:36 That's the intuition of a great
+
 00:15:38 community builder is knowing that people
+
 00:15:40 will get along that there's alignment
+
 00:15:41 there. That there's something happening
+
 00:15:43 here. There's a there's a a fire to be
+
 00:15:47 started that if you just create the
+
 00:15:48 right space and bring those people
+
 00:15:50 together. Again, community emerges. It's
+
 00:15:52 it's like a it's like a plant. If you
+
 00:15:55 put the seed in the soil and and it's
+
 00:15:58 fertilized well enough and it gets its
+
 00:15:59 nutrients, you don't have to do
+
 00:16:01 anything. It's going to just grow. Um,
+
 00:16:03 and then you have to prune it and make
+
 00:16:05 sure it's healthy and get weeds out of
+
 00:16:06 the way and stuff like that. But it's
+
 00:16:08 going to emerge on its own. And it's the
+
 00:16:10 same thing with a community. Get the
+
 00:16:12 right people in the right environment,
+
 00:16:13 the right resources around them. It's
+
 00:16:15 going to emerge. You can't stop it.
+
 00:16:18 When for you, how do you set those like
+
 00:16:22 barriers to entry? Because you can also
+
 00:16:24 some communities just let anybody in the
+
 00:16:26 forum, but there's also some that like
+
 00:16:30 you said are very curated. you know,
+
 00:16:32 they the right people in the right room.
+
 00:16:34 So, how do you decide between that
+
 00:16:37 barrier to entry into the community, who
+
 00:16:40 should be in and who shouldn't be in? It
+
 00:16:42 depends on the purpose as well. If
+
 00:16:44 you're trying to like build this
+
 00:16:45 extremely large ecosystem really fast,
+
 00:16:47 then you might just want to let everyone
+
 00:16:49 in. But,
+
 00:16:52 it almost always fails when you just let
+
 00:16:54 everyone in and it grows really fast.
+
 00:16:55 There's no sense of shared norms or
+
 00:16:58 culture. Um, members don't really get to
+
 00:17:01 know each other. or they don't they
+
 00:17:02 don't get a sense of who we are, right?
+
 00:17:06 Who how do we identify as a group of
+
 00:17:09 people? Um, and so I would almost always
+
 00:17:13 start by curating and just making it
+
 00:17:15 invite only. And a really simple way to
+
 00:17:17 do that is again start with the few
+
 00:17:19 people that you know that you think are
+
 00:17:21 going to be a really good fit and then
+
 00:17:23 leave it open for them to be able to
+
 00:17:25 invite others who might be a good fit.
+
 00:17:27 Um, and you know that's if you're
+
 00:17:30 building just like an interestbased
+
 00:17:31 community, you can be very open and
+
 00:17:33 organic like that. If you're doing a
+
 00:17:35 customer community and you're only
+
 00:17:36 limited to your customers, then start
+
 00:17:38 with the people who again are genuinely
+
 00:17:42 motivated, who are going to bring really
+
 00:17:44 highquality conversations, who you
+
 00:17:46 already have trust and relationships
+
 00:17:47 with. Um, where there's already kind of
+
 00:17:49 this foundation of social capital in a
+
 00:17:52 way. Um, start with those people and
+
 00:17:54 then you can grow it organically from
+
 00:17:56 there.
+
 00:17:58 You said uh you have a community for
+
 00:18:01 community
+
 00:18:03 managers, community builders and stuff
+
 00:18:05 like that. If I was looking if I was a
+
 00:18:07 company looking for a great community
+
 00:18:09 manager, what is what are the qualities?
+
 00:18:11 What should I be looking for to for a
+
 00:18:14 company? Like what makes a great
+
 00:18:15 community builder or manager? Yeah,
+
 00:18:19 there's um there's a few layers to what
+
 00:18:21 it takes to do this work. Um, you have
+
 00:18:23 the communal layer of is this person
+
 00:18:26 going to be a great writer, a great
+
 00:18:28 communicator? Can they really connect
+
 00:18:29 with people and empathize with people?
+
 00:18:31 Do people feel drawn to them? Um, are
+
 00:18:34 they a great facilitator? Do they
+
 00:18:36 understand how to start conversations,
+
 00:18:38 manage conversations, how to manage
 00:18:39 conflict, uh, how to build communities
 00:18:42 that are inclusive and identify the
