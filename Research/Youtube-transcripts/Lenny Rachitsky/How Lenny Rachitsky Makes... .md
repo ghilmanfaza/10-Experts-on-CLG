@@ -1,842 +1,2233 @@
-00:00:00 way that you think about product Market  
-00:00:02 fit you have to think about content  
-00:00:04 Market fit so even though content feels  
-00:00:06 like it's running adjacent to the actual  
-00:00:08 product that you're putting out there  
-00:00:09 you still have to think about who is my  
-00:00:12 audience who is the audience that I  
-00:00:13 really want to have who's the audience  
-00:00:15 that is going to be drawn to this most  
-00:00:16 who are they what is it that they really  
-00:00:19 need in their lives like even  
-00:00:21 abstracting content from it at all what  
-00:00:24 is it that they need to get promoted was  
-00:00:25 it that they need to avoid failure what  
-00:00:28 is it that causes them a great deal of  
-00:00:29 anxiety in the day-to-day of their lives  
-00:00:31 or their work and can you create some  
-00:00:33 type of content product that is going to  
-00:00:35 address this for them  
-00:00:38 welcome to Lenny's podcast I'm Lenny and  
-00:00:41 my goal here is to help you get better  
-00:00:42 at the craft of building and growing  
-00:00:44 products I interview world-class product  
-00:00:46 leaders and growth experts to learn from  
-00:00:48 their hard-won experiences building and  
-00:00:49 growing today's most successful  
-00:00:51 companies today my guest is Camille  
-00:00:53 Ricketts Camille was the first marketing  
-00:00:55 hire at notion and long time head of  
-00:00:58 marketing in notion prior to that she  
-00:01:00 was head of content and marketing at  
-00:01:01 first round Capital where amongst many  
-00:01:04 other things she launched the first  
-00:01:05 round review which holds a very special  
-00:01:07 place in my heart because a guest Post  
-00:01:09 in the first round review essentially  
-00:01:11 helped me launch my now career of  
-00:01:13 newsletter and Now podcast Camille also  
-00:01:16 did content marketing at Kiva and also  
-00:01:18 comms NPR at early Tesla where she sat  
-00:01:21 right next to Elon Musk for about a year  
-00:01:24 and she shares some really fun stories  
-00:01:25 about that in this episode we focus on  
-00:01:28 two areas that Camille was very early in  
-00:01:30 and has tremendous insights around one  
-00:01:33 Community LED growth but it actually is  
-00:01:35 when it's something you should invest in  
-00:01:37 how to do it well all based on her  
-00:01:39 experience building Notions early  
-00:01:40 Community which was a huge part of  
-00:01:42 notion's early success we also talk  
-00:01:45 about content marketing when it's worth  
-00:01:46 investing in how to do it well and all  
-00:01:49 kinds of tips for building a Content  
-00:01:50 marketing machine it was a total blast  
-00:01:52 chatting with Camille and I'm really  
-00:01:54 excited for you to learn from her with  
-00:01:56 that I bring you Camille Ricketts right  
-00:01:58 after we hear a word from our wonderful  
-00:02:00 sponsors  
-00:02:02 this episode is brought to you by EPO  
-00:02:05 EPO is a Next Generation a b testing  
-00:02:07 platform built by Airbnb alums for  
-00:02:10 modern growth teams companies like  
-00:02:12 netlify contentful and Cameo rely on  
-00:02:15 Apple to power their experiments  
-00:02:16 wherever you work running experiments is  
-00:02:19 increasingly essential but there are no  
-00:02:21 commercial tools that integrate with a  
-00:02:23 modern grow team stack this leads to  
-00:02:25 wasted time building internal tools  
-00:02:27 we're trying to run your experiments  
-00:02:28 through a clunky marketing tool when I  
-00:02:31 was at Airbnb one of the things that I  
-00:02:32 loved about our experimentation platform  
-00:02:34 was being able to easily slice results  
-00:02:36 by device by country and by user stage  
-00:02:39 fo does all that and more delivering  
-00:02:42 results quickly avoiding annoying  
-00:02:44 prolonged analytic cycles and helping  
-00:02:46 you easily get to the root cause of any  
-00:02:48 issue you discover EPO lets you go  
-00:02:51 beyond basic click-through metrics and  
-00:02:53 instead use your Northstar metrics like  
-00:02:55 activation retention subscriptions and  
-00:02:58 payments nfo supports tests on the front  
-00:03:00 end the back end email marketing and  
-00:03:03 even machine learning clients check out  
-00:03:05 EPO at getepo.com get eppo.com and 10x  
-00:03:10 your experiment velocity  
-00:03:13 hey Ashley head of marketing and flat  
-00:03:15 file how many B2B SAS companies would  
-00:03:17 you estimate need to import CSV files  
-00:03:19 from their customers  
-00:03:21 at least 40 and how many of them screw  
-00:03:24 that up and what happens when they do  
-00:03:25 well greenstone our data about a third  
-00:03:28 of people will consider switching to  
-00:03:30 another company after just one bad  
-00:03:32 experience during onboarding so if your  
-00:03:35 CSV importer doesn't work right which is  
-00:03:37 super common considering customer files  
-00:03:40 are chock full of unexpected data and  
-00:03:42 formatting they'll leave  
-00:03:45 I am zero percent surprised to hear that  
-00:03:47 I've consistently seen that improving  
-00:03:49 onboarding is one of the highest  
-00:03:50 leverage opportunities for both sign up  
-00:03:52 conversion and increasing long-term  
-00:03:54 retention getting people to your aha  
-00:03:56 moment more quickly and reliably is so  
-00:03:58 incredibly important totally it's  
-00:04:01 incredible to see how our customers like  
-00:04:03 Square Spotify and Zora are able to grow  
-00:04:06 their businesses on top of flat file  
-00:04:08 it's because Flawless data onboarding  
-00:04:10 acts like a catalyst to get them and  
-00:04:13 their customers where they need to go  
-00:04:15 faster  
-00:04:17 if you'd like to learn more or get  
-00:04:18 started check out flat file at  
-00:04:20 flatfile.com Lenny  
-00:04:27 Camille welcome to the podcast hello  
-00:04:30 there thank you so much for having me  
-00:04:31 absolutely my pleasure  
-00:04:34 you have such a fascinating background  
-00:04:36 working at so many world-class companies  
-00:04:38 with so many Fascinating People could  
-00:04:41 you just take a minute to talk about  
-00:04:42 some of the wonderful things you've done  
-00:04:45 in your career just to set a little  
-00:04:46 context for folks yeah um well thank you  
-00:04:48 for characterizing them as wonderful I  
-00:04:51 feel like it's been a quite circuitous  
-00:04:53 path  
-00:04:54 um but definitely has taken me to some  
-00:04:55 interesting places I started off as a  
-00:04:57 journalist at the Wall Street Journal  
-00:04:59 and then found my way into  
-00:05:01 Communications and marketing at Tesla  
-00:05:03 Motors we're part of my responsibility  
-00:05:05 there was to sit to elon's right and  
-00:05:07 make sure he had all the data he needed  
-00:05:09 at his fingertips when talking to the  
-00:05:11 Press which is you know deep end of the  
-00:05:12 pool on the pr learning and then after  
-00:05:15 that found my way to first round Capital  
-00:05:17 where I was really fortunate to be at  
-00:05:20 the ground floor of first round review  
-00:05:21 if anyone out there watching this is  
-00:05:23 familiar with those pieces was there for  
-00:05:26 about five years loved that team really  
-00:05:28 incredible folks and then they had  
-00:05:31 invested in notion really early on and  
-00:05:33 so I was able to to meet Ivan Zhao as a  
-00:05:36 result of that and him and Simon and  
-00:05:38 they gave me the opportunity to join as  
-00:05:39 the first marketing hire at notion and  
-00:05:42 that's what I was doing up until  
-00:05:43 recently I love that elon's admit I like  
-00:05:46 that it was on his right like as a  
-00:05:47 right-hand person what was that like and  
-00:05:50 is there something that you learned  
-00:05:52 working alongside Elon sitting next to  
-00:05:54 Elon about operating working that maybe  
-00:05:56 you've taken to other places you worked  
-00:05:58 at I mean it was a long time ago so I'll  
-00:06:00 caveat that this was before Model S came  
-00:06:03 out even so a lot of my work was and  
-00:06:06 this is a great opportunity but driving  
-00:06:08 around in the Roadster and talking to  
-00:06:10 journalists and letting reporters ride  
-00:06:12 in the car which was very seductive and  
-00:06:14 I think maybe just a little unfair from  
-00:06:17 a PR standpoint but in terms of what I  
-00:06:19 learned I mean that was really the first  
-00:06:21 job that I had that was necessitating  
-00:06:24 just being incredibly on point with all  
-00:06:26 the information so making sure that I  
-00:06:29 knew everything that could possibly come  
-00:06:31 up in a conversation being incredibly  
-00:06:33 well versed in just the topics at hand I  
-00:06:36 think that served me really well just  
-00:06:38 like I just have to be like really  
-00:06:40 really really quick and on it and then  
-00:06:42 the other thing that Elon I think is  
-00:06:44 very talented at or definitely at the  
-00:06:46 time really made an impression on me was  
-00:06:48 painting an emotional picture of the  
-00:06:50 vision that he was really going after  
-00:06:51 and being able to convey the emotional  
-00:06:53 quality of the mission to the people he  
-00:06:55 talked to so definitely at the time  
-00:06:58 about the electric vehicle Revolution  
-00:07:00 and then space travel  
-00:07:02 I think he just knew how to make people  
-00:07:04 feel about it that really enlisted a lot  
-00:07:06 of hearts and minds and that is  
-00:07:08 something that I've taken with me for  
-00:07:09 sure would you say that was the most  
-00:07:11 stressful place you've worked or have  
-00:07:13 you found more stress post you on I  
-00:07:15 think that that was the place where you  
-00:07:17 just needed to be  
-00:07:19 so on your game like game face every  
-00:07:22 single day which is a wonderful skill to  
-00:07:25 learn and then I think there were other  
-00:07:27 moments in my career where just the  
-00:07:28 stakes might have been a little bit  
-00:07:29 higher certainly at notion every day  
-00:07:32 felt like we're building this thing  
-00:07:33 together and you know we're in this very  
-00:07:36 special moment so yeah I think there was  
-00:07:38 a mix there So speaking of notion I  
-00:07:40 think you mentioned this if not you were  
-00:07:42 the first marketing hire at notion is  
-00:07:44 that right yes what employee number was  
-00:07:46 that I was number 11. wow yeah so it's  
-00:07:50 really a small Squad the folks at the  
-00:07:52 time and how big are they now roughly  
-00:07:54 would you say so the last I heard I  
-00:07:56 think that they were around 400 maybe a  
-00:07:58 little over 400. amazing and I think  
-00:08:00 they're worth I don't know last  
-00:08:01 valuation was like 10 billion dollars so  
-00:08:03 there's been a quite the journey must  
-00:08:05 have been quite the adventure being at  
-00:08:07 notion during this time what's maybe the  
-00:08:10 most I don't know tangible memory of  
-00:08:12 working at notion in the early days what  
-00:08:13 was it like early date notion you know I  
-00:08:15 think a lot about just what the  
-00:08:17 environment felt like this was the first  
-00:08:19 very small whole startup that I had  
-00:08:21 worked for when I left first round I  
-00:08:23 really wanted that experience and the  
-00:08:25 first office that I worked in was really  
-00:08:27 just like a home like it literally had  
-00:08:29 an apartment on top of this kind of Loft  
-00:08:32 space and it just felt like we were a  
-00:08:34 group of people who kind of lived there  
-00:08:36 together during the day but it had that  
-00:08:39 kind of Homespun really warm quality so  
-00:08:41 we all took our shoes off there was like  
-00:08:43 beautiful furnishings and rugs and we  
-00:08:45 would all just sit around and drink tea  
-00:08:46 and work together on these couches um so  
-00:08:49 it really had that feeling to it and  
-00:08:51 then there were like little quirks like  
-00:08:53 I like to reminisce with my colleagues  
-00:08:55 who were there at the time that we  
-00:08:56 didn't have like a great HVAC system so  
-00:08:58 during the summer it was really hot and  
-00:09:00 then in the winter it was really cold  
-00:09:02 and we would have these big industrial  
-00:09:04 fans and it was just at the time we were  
-00:09:06 like oh this is really bizarre but now  
-00:09:09 it's like one of our favorite memories  
-00:09:10 to talk about or for a while we didn't  
-00:09:13 have overhead lighting so me and my  
-00:09:14 colleagues who were there working really  
-00:09:15 late at night it would just get darker  
-00:09:17 and darker and darker and one of my  
-00:09:19 favorite faux folks there actually had a  
-00:09:21 headlamp that she would switch on it oh  
-00:09:24 my God great evening  
-00:09:25 so that that's the stuff that really  
-00:09:27 comes up for me like we were all working  
-00:09:28 really hard and like in this thing  
-00:09:30 together but it's like that team sort of  
-00:09:32 familial quality that stands out to me I  
-00:09:35 love how some of these or at least  
-00:09:36 moments where it feels like what the  
-00:09:38 hell are we doing we have we have to  
-00:09:39 wear headlamps we're like it's like  
-00:09:41 super hot like when you're in it you're  
-00:09:43 like this this isn't maybe how our  
-00:09:45 startup should be going and it feels  
-00:09:47 like really painful and hard but looking  
-00:09:48 back it's always like the best memories  
-00:09:50 those hardships it truly is and like the  
-00:09:53 moments that we were there like late at  
-00:09:55 night like really trying to get  
-00:09:56 something done before a big launch the  
-00:09:58 next day that's where like our hearts  
-00:10:00 lie I think to a large extent that crew  
-00:10:03 that was there on that note and were you  
-00:10:05 talking about stress working with Elon  
-00:10:07 you talked about notion that a different  
-00:10:08 kind of stress what's maybe the most  
-00:10:10 stressful memory you have of working at  
-00:10:12 notion whatever you can share this is  
-00:10:14 something that has long since been  
-00:10:15 rectified but the first day that we came  
-00:10:18 back from break in 2021 so we had all  
-00:10:21 been you know sort of away for the  
-00:10:23 holidays we reassemble I think it's like  
-00:10:25 January 3rd 2021 perhaps had a massive  
-00:10:29 outage that day and so it was literally  
-00:10:30 like all hands on deck we're suddenly  
-00:10:32 seeing all of these people on Twitter  
-00:10:34 pop up on the Reddit pop-up being like  
-00:10:37 Oh my gosh what am I gonna do you know  
-00:10:39 and it really reinforced for us how  
-00:10:42 Central notion had become to so many  
-00:10:44 people so on one hand it was kind of  
-00:10:47 this amazing moment of realization of  
-00:10:49 how vital this thing we were building  
-00:10:50 was all the time which I mean adds to  
-00:10:53 the stress in the moment but also kind  
-00:10:55 of like your motivation overall and then  
-00:10:57 we also saw on Twitter and this is part  
-00:10:59 of why Community is such a core focus of  
-00:11:02 mine but people being like they're  
-00:11:04 trying really hard to get it back up  
-00:11:06 give them a break or like sending hugs  
-00:11:09 to the notion team we know you've got  
-00:11:11 this and we really appreciated that and  
-00:11:13 that was just like a very heartwarming  
-00:11:16 aspect of it but that day was definitely  
-00:11:19 a scramble and we wanted to be as  
-00:11:21 communicative as possible so my team was  
-00:11:24 really Central to start making sure that  
-00:11:27 everybody knew what was going on what  
-00:11:29 the efforts were being made to fix it  
-00:11:31 time Horizon all of that so they've long  
-00:11:34 since hired like the best infrastructure  
-00:11:36 people I think in the industry and  
-00:11:38 refactored the database and everything  
-00:11:39 so it's not an issue anymore but  
-00:11:41 certainly that was a moment of stress at  
-00:11:45 the time it's interesting looking at  
-00:11:47 those times like when you're in it  
-00:11:49 you're like we are gonna die we're down  
-00:11:51 people will stop using an ocean we're in  
-00:11:53 big trouble when really people always  
-00:11:54 come back if it's an awesome product if  
-00:11:56 it's not like I think at lasting was  
-00:11:57 down for like a week jira or confluent  
-00:12:00 and people come back if it's an awesome  
-00:12:02 product I think that's a good tactical  
-00:12:03 learning and hopefully a takeaway for  
-00:12:05 folks who maybe will experience that  
-00:12:06 moment is that truly there's more  
-00:12:09 resilience built into the system than  
-00:12:10 you might think so speaking of community  
-00:12:13 you talked about just how important that  
-00:12:15 was during this time and then just in  
-00:12:17 general I was doing research on on you  
-00:12:19 and things that you've done over your  
-00:12:21 career to prep for this podcast  
-00:12:22 and I found there's two areas that  
-00:12:24 you've kind of led the charge on and  
-00:12:26 we're ahead of the curve on and in part  
-00:12:28 help innovate one is community-led  
-00:12:30 growth and two is content Marketing in  
-00:12:33 in a big way and so I wanted to focus a  
-00:12:35 lot of our chat on these two areas it's  
-00:12:38 a community like growth it feels like a  
-00:12:40 very Buzzy topic on Twitter everyone's  
-00:12:42 always talking about how the future of  
-00:12:44 growth is community you got to build a  
-00:12:45 community you got to be community-led  
-00:12:47 and all these things and so I want to  
-00:12:49 try to make this concept concrete and  
-00:12:51 help people understand should they  
-00:12:53 invest in community how can community  
-00:12:55 help you when does it make sense to you  
-00:12:56 when does it not make sense to invest  
-00:12:58 and so maybe just as a first question  
-00:13:00 just what what is community like growth  
-00:13:02 what does that actually mean as a  
-00:13:03 concept yeah I think it has become quite  
-00:13:06 Buzzy and it's certainly aspirational  
-00:13:07 for a lot of product LED growth  
-00:13:09 companies and even those that are maybe  
-00:13:11 a little bit outside of the product LED  
-00:13:12 growth orbits and you we're seeing like  
-00:13:15 all of these startups I think also come  
-00:13:16 out that are about community and how to  
-00:13:19 enhance that effect in terms of how I  
-00:13:21 think about what it actually is it's  
-00:13:23 when your community helps you achieve  
-00:13:25 such ubiquity and such name recognition  
-00:13:28 that it actually allows you to start  
-00:13:30 moving up Market into the Enterprise  
-00:13:33 um and I know that might be very  
-00:13:34 specific to Enterprise oriented  
-00:13:36 companies but that's how we defined it  
-00:13:38 at notion was the fact that so many  
-00:13:41 people were talking about this sharing  
-00:13:43 what they had built about it honestly  
-00:13:45 starting businesses of their own around  
-00:13:46 it to kind of formalize the relationship  
-00:13:49 with teams that I think it de-risks  
-00:13:53 notion as a choice for a lot of  
-00:13:55 companies just because they had heard  
-00:13:56 about it through so many channels they  
-00:13:58 had seen it on social media they've  
-00:14:00 heard about it on a podcast their friend  
-00:14:01 told them about it they saw a billboard  
-00:14:03 like all all of that lended itself to  
-00:14:06 larger and larger companies and teams  
-00:14:08 buying more and more seats so I think  
-00:14:10 that's the power that the community had  
-00:14:12 for us and I see that also being  
-00:14:13 analogous to what companies like figma  
-00:14:15 have been able to achieve it sounds like  
-00:14:17 a lot of the way you're describing is  
-00:14:19 basically awareness where brand  
-00:14:20 awareness is what you found to be maybe  
-00:14:23 the most useful element of this  
-00:14:24 community that you built throughout  
-00:14:26 notion and I love using the word  
-00:14:27 Discovery because I think that that is  
-00:14:31 even a little bit like a step further  
-00:14:33 than awareness or like true Discovery is  
-00:14:36 when you have intent to find out more  
-00:14:38 right like you've heard about it so many  
-00:14:41 times or you've been intrigued by  
-00:14:44 something that someone has told you to  
-00:14:45 the extent that you're actually going to  
-00:14:47 take the step of of now learning about  
-00:14:49 it and that's where we really wanted to  
-00:14:52 to play and to emphasize our work got it  
-00:14:55 so it sounded like the kpi slash okr of  
-00:14:58 your team was get more people aware and  
-00:15:00 kind of excited to explore notion yeah  
-00:15:04 and maybe this is a tactical or helpful  
-00:15:06 tactical point I think when people think  
-00:15:07 about like acquisition or Discovery or  
-00:15:09 brand awareness or brand in general  
-00:15:11 they're like what collection of metrics  
-00:15:13 are actually going to give us insight  
-00:15:14 into this and the one that I found to be  
-00:15:17 the most instructive was net new  
-00:15:19 visitors to the notion website so month  
-00:15:22 over month how many new people who had  
-00:15:24 never been there before  
-00:15:26 were motivated enough to come and  
-00:15:29 actually learn about the product and  
-00:15:31 that was really the responsibility of  
-00:15:32 the brand Team and the folks that worked  
-00:15:34 with me on community and content and all  
-00:15:38 of the awareness campaigns that we were  
-00:15:40 putting out into the field was about  
-00:15:41 getting more new people interested so  
-00:15:44 that begs the question did you have any  
-00:15:46 clever ways of attributing that new  
-00:15:49 traffic to stuff your team did versus I  
-00:15:51 don't know the SEO team or other teams  
-00:15:53 in particular I'll call out the  
-00:15:55 influencer marketing efforts that were  
-00:15:57 really being run by this incredible  
-00:15:59 woman Lexi barnhorn where they were  
-00:16:01 incredibly measurable where we were like  
-00:16:04 okay well we're we're sponsoring people  
-00:16:06 for this amount these creators across  
-00:16:08 these platforms and we know that people  
-00:16:11 came from that content directly to the  
-00:16:14 notion website so we were able to draw  
-00:16:16 really tight connections so I think that  
-00:16:19 some types of content lend themselves to  
-00:16:21 that and then also with Community  
-00:16:23 there's certain things you can do around  
-00:16:25 helping your community members report on  
-00:16:28 how many people are attending Etc to  
-00:16:30 give you that sense so you may be  
-00:16:32 already answering this question but I'm  
-00:16:33 curious what efforts had the most impact  
-00:16:36 to achieve these goals that you had of  
-00:16:38 creating more awareness and Discovery  
-00:16:40 motivation and things like that like  
-00:16:42 what what actually worked so I'd say  
-00:16:44 that the community efforts that were  
-00:16:46 very big for us were the ambassadors  
-00:16:48 also making sure that people were  
-00:16:51 hosting in person events this really  
-00:16:53 took off in 2019 obviously we paused for  
-00:16:57 2020 2021 but now I just spent time with  
-00:17:00 Notions head of community Ben Lang who  
-00:17:02 truly is The Mastermind and genius  
-00:17:04 behind so much of this and he says that  
-00:17:06 they're back up to 30 in-person events a  
-00:17:08 month around the world  
-00:17:10 um so that really helped on the  
-00:17:12 international scale of spreading  
-00:17:13 ubiquity and ended up lending itself to  
-00:17:16 like relationships with station F in  
-00:17:18 France which is the biggest startup  
-00:17:20 campus in Paris so really helping us  
-00:17:22 work our way into those types of  
-00:17:23 networks and then supporting those  
-00:17:25 people to also start their own  
-00:17:27 businesses and derive whatever uh reward  
-00:17:30 they were looking for themselves so we  
-00:17:31 really wanted to align our goals with  
-00:17:33 theirs a lot of those folks actually  
-00:17:35 started Revenue generating businesses as  
-00:17:37 consultants or course makers or  
-00:17:39 influencers some of them just wanted to  
-00:17:41 build their own platforms online so all  
-00:17:44 of our efforts there are like around  
-00:17:45 building guides or counseling people  
-00:17:47 one-on-one or making it easier for them  
-00:17:50 to to actually achieve those goals for  
-00:17:52 themselves was also a big part of this  
-00:17:54 growth and then like I said influencers  
-00:17:57 this was something that Ben started  
-00:17:59 exploring in 2019 and we were so  
-00:18:02 pleasantly overwhelmed with the amount  
-00:18:05 of traction and traffic that was driven  
-00:18:08 by working with some of the these  
-00:18:10 influencers and now that program has  
-00:18:12 exploded into sort of a multi-channel  
-00:18:16 effort that's that's huge for notion  
-00:18:19 awesome the influencers makes a lot of  
-00:18:21 sense I want to learn more about this  
-00:18:23 ambassador program and what that was  
-00:18:24 about but with events and maybe just  
-00:18:26 broadly imagine a lot of Founders might  
-00:18:28 be listening and they're like yeah this  
-00:18:30 all sounds awesome but like how do you  
-00:18:31 know if it's doing anything like the  
-00:18:33 sound of like events that would be great  
-00:18:35 but like how much is it worth investing  
-00:18:38 how much time and attention does it take  
-00:18:39 how do we know if this is actually Roi  
-00:18:41 positive is there anything you learn  
-00:18:43 there about just like like is it a  
-00:18:45 Founder must believe in this as a thing  
-00:18:47 that is probably going to work sort of  
-00:18:48 thing or is there something you found to  
-00:18:50 convince people like yes this is how you  
-00:18:52 can know it's working that's a great  
-00:18:54 question I think that we were really  
-00:18:56 fortunate that Ivan and saw the inherent  
-00:18:58 value in community from the very  
-00:19:00 beginning and was deeply supportive and  
-00:19:02 actually one of my number one  
-00:19:03 recommendations for anybody who suspects  
-00:19:06 the community could be a big growth  
-00:19:07 driver is to not make metrics the be-all  
-00:19:11 and all at the very beginning so we  
-00:19:13 didn't necessarily start measuring  
-00:19:14 things very concretely until last year  
-00:19:17 with Community mostly because we had  
-00:19:20 already seen so much organic scale that  
-00:19:22 we saw being like tied to our community  
-00:19:25 efforts in some way in terms of where we  
-00:19:27 were geographically expanding how people  
-00:19:30 were reporting that they had discovered  
-00:19:32 us whenever we surveyed them so that  
-00:19:35 type of motion and I think for any  
-00:19:37 company that is seeing this type of just  
-00:19:40 organic fervor one of the worst things  
-00:19:43 you can do is say let's cut this off at  
-00:19:45 the knees if it's not generating Roi I  
-00:19:47 imagine internally there's just like  
-00:19:49 obviously this is good we may not be  
-00:19:51 able to measure it but it feels like  
-00:19:53 this is very good for notion it feels  
-00:19:55 like especially for a prosumer product  
-00:19:57 like notion and it makes a lot of sense  
-00:19:59 because it's driven by people using it  
-00:20:00 and then they bring it into the company  
-00:20:01 like you said maybe it's less Roi  
-00:20:04 positive for just like full-on  
-00:20:06 Enterprise products do you have any  
-00:20:07 thoughts there just is this like a great  
-00:20:10 strategy for pro summary Enterprise  
-00:20:11 Products more so than I don't know more  
-00:20:14 enterprisey definitely I think if you  
-00:20:16 have a long sales cycle or a high price  
-00:20:19 point where there has to be many many  
-00:20:21 touch points in order to get somebody to  
-00:20:24 decide to buy I'm not sure that  
-00:20:27 Community should be the number one thing  
-00:20:28 that you invest in certainly for  
-00:20:30 freemium products I think for a lot of  
-00:20:32 them especially if they have  
-00:20:35 what I'm going to call the atomic unit  
-00:20:37 of sharing which I will Define out  
-00:20:40 uh it becomes kind of a no a no-brainer  
-00:20:43 like I think that Community lends itself  
-00:20:46 particularly well if you have something  
-00:20:48 that your product creates that people  
-00:20:50 want to share because it exhibits  
-00:20:52 something about themselves so at notion  
-00:20:55 it was templates or even people just  
-00:20:57 creating their own workspaces and being  
-00:20:59 really excited to show them off so  
-00:21:01 notion really benefited from being a  
-00:21:03 creative product but the same is true of  
-00:21:06 figma or canva or any of these where  
-00:21:09 showing people what it is that you've  
-00:21:11 created is an aspirational thing to do  
-00:21:14 because you are showing that you are  
-00:21:18 really well versed in how to use the  
-00:21:20 products extremely organized like your  
-00:21:22 your self-expressing in some way so if  
-00:21:26 your product does have that element to  
-00:21:27 it I think that Community is a great  
-00:21:29 investment you touched on this point and  
-00:21:31 I don't think people realize this but  
-00:21:32 you can make a lot of money creating  
-00:21:35 templates on notion right that's like a  
-00:21:37 whole ecosystem can you talk about that  
-00:21:39 because I don't think a lot of people  
-00:21:40 know this yeah so this is one of the  
-00:21:42 reasons that I would advise any of the  
-00:21:43 companies that feel like they fall into  
-00:21:45 this category to start early because you  
-00:21:48 need to nurture all of these different  
-00:21:50 routes that people in your community can  
-00:21:53 take certainly early on I think that the  
-00:21:55 people that we initially recruited and  
-00:21:57 the ambassadors didn't see themselves  
-00:21:58 doing you know maybe even close to a  
-00:22:01 million dollars in business around  
-00:22:03 helping other teams succeed with the  
-00:22:05 product or selling templates I remember  
-00:22:07 really early on probably like mid-2021  
-00:22:10 we heard of one Creator who had made  
-00:22:12 like thirty five thousand dollars in  
-00:22:14 four months selling one template and  
-00:22:17 that was a very common story then from  
-00:22:19 that point forward and helping them do  
-00:22:22 that like actually creating the the  
-00:22:24 guide material and the networks and also  
-00:22:26 the connections between the people who  
-00:22:28 are running similar businesses who could  
-00:22:29 help each other that all became really  
-00:22:31 fundamental but to your point about oh  
-00:22:34 is this actually related to the  
-00:22:36 Enterprise motion for notion like so  
-00:22:38 many companies now have many sizes are  
-00:22:41 relying on the Consultants that first  
-00:22:43 came up through our community and some  
-00:22:45 of those Consultants are now employing  
-00:22:47 dozens of other people that's incredible  
-00:22:49 there's no better way to motivate  
-00:22:50 someone to evangelize notion than have  
-00:22:53 their income rely on notion and it's  
-00:22:55 also just inspiring for us honestly like  
-00:22:58 there's so many people who started off  
-00:23:00 with not very many followers and now  
-00:23:03 they are celebrities within this this  
-00:23:06 ecosystem so maybe coming back to the  
-00:23:08 ambassador program that's separate from  
-00:23:10 this selling notion templates ecosystem  
-00:23:12 right what is the ambassador program  
-00:23:14 they're actually like quite Blended um  
-00:23:16 because the folks who are excited about  
-00:23:18 notion it takes a lot of forms sometimes  
-00:23:20 they want to host events sometimes they  
-00:23:22 want to build templates so we would  
-00:23:24 actually have channels inside of our  
-00:23:25 slack instance for the ambassadors that  
-00:23:27 had these areas of focus based on what  
-00:23:29 people really were passionate about or  
-00:23:31 wanted to do and they were like a force  
-00:23:34 multiplying flywheel for each other  
-00:23:35 because a lot of folks would enter the  
-00:23:37 ambassadors program and then I'm happy  
-00:23:39 to talk about Champions as well which is  
-00:23:41 a little bit different and then discover  
-00:23:43 what it would mean for them to build  
-00:23:45 templates and it became motivating for  
-00:23:46 that reason so on the Champions side of  
-00:23:49 things and this is maybe speaking a  
-00:23:51 little bit more to the Enterprise as  
-00:23:52 well we wondered if sort of the same DNA  
-00:23:54 that existed among consumers for the  
-00:23:57 most part and the ambassadors could work  
-00:23:59 for folks who were inside of our  
-00:24:01 customer companies and so we launched a  
-00:24:03 another Community another slack instance  
-00:24:06 for folks who were the most passionate  
-00:24:08 or the most Avid users of notion inside  
-00:24:11 of our customer companies  
-00:24:13 which has become just a wonderful  
-00:24:15 channel for customer success to be more  
-00:24:18 communicative with those companies make  
-00:24:20 sure that things are sticking or  
-00:24:22 obstacles are being overcome and that's  
-00:24:25 been designed very specifically that way  
-00:24:27 and it has been really really valuable  
-00:24:29 over time  
-00:24:31 understand this so Champions are  
-00:24:33 basically the most active users of  
-00:24:34 notion you put them in a slack and help  
-00:24:36 them become even more excited and make  
-00:24:38 sure they're happy Ambassador I still  
-00:24:40 don't totally understand what what is an  
-00:24:41 ambassador that's like is that someone  
-00:24:43 you're paying to help promote notion  
-00:24:45 what is what does that actually mean  
-00:24:46 when you're an ambassador is there  
-00:24:47 people who are really just passionate  
-00:24:49 about the products I see so it's not  
-00:24:50 transactional they're people who love  
-00:24:54 building with notion they love sharing  
-00:24:56 what they've built in order to help  
-00:24:58 others and they really just want it to  
-00:25:00 be a bigger part of their lives and I  
-00:25:02 think that uh one of the points about  
-00:25:03 community  
-00:25:04 is that it's not just a one-to-one  
-00:25:07 conversation with us like the the big  
-00:25:09 draw over time maybe people joined  
-00:25:11 because they would get early access to  
-00:25:13 Features  
-00:25:14 um we would get their feedback that  
-00:25:16 became really important for our product  
-00:25:17 team or because we would offer amas list  
-00:25:20 some of our folks internally but over  
-00:25:22 time it was really because they were  
-00:25:25 forming these bonds with each other and  
-00:25:27 learning so much from each other that  
-00:25:29 most of the time someone would come in  
-00:25:31 and say I'm struggling with this or I  
-00:25:33 don't quite know how to use this and it  
-00:25:34 would be another member of the community  
-00:25:36 that would help them more immediately so  
-00:25:39 it really allowed them to form these  
-00:25:40 dense networks of friendships that I  
-00:25:42 think became  
-00:25:43 it's like a positive part of people's  
-00:25:45 lives what I'm taking away from this  
-00:25:47 partly is there's you kind of identify a  
-00:25:50 group of people that are interested in  
-00:25:52 notion excited about notion and just  
-00:25:53 lean in to support them there's like  
-00:25:56 people that are buying notion just and  
-00:25:58 that are power users help them be better  
-00:26:00 power users influencers that are kind of  
-00:26:02 excited about notion like pay them to  
-00:26:04 promote notion then the ambassadors that  
-00:26:06 are people just like passionate about  
-00:26:08 notion help them be more passionate and  
-00:26:10 then the people making templates like  
-00:26:11 help them be successful is that kind of  
-00:26:13 roughly how you think about just like  
-00:26:14 identify something that's working and  
-00:26:15 make it more effective I think if it  
-00:26:18 doesn't sound too reductive yes I would  
-00:26:21 also say uh  
-00:26:23 that one of the things that I think Ben  
-00:26:24 was best at is not putting a  
-00:26:26 one-size-fits-all experience on any of  
-00:26:29 this I think that some communities get  
-00:26:30 built where people are like okay well we  
-00:26:33 have this community and it's going to be  
-00:26:34 this and this and this or these are the  
-00:26:36 types of programs we're going to offer  
-00:26:38 or these are the types of interactions  
-00:26:39 we're going to have as opposed to  
-00:26:42 I think a lot of listening of the people  
-00:26:44 who are actually participating  
-00:26:46 um really early on one of the things  
-00:26:48 that Ben did that I thought was really  
-00:26:49 amazing was he'd spend a ton of time  
-00:26:51 just on Zoom having conversations  
-00:26:53 one-on-one conversations like semi-small  
-00:26:56 group conversations just saying why are  
-00:26:58 you here why do you like participating  
-00:27:00 in this what is it that would make it  
-00:27:02 better and really helping our entire  
-00:27:05 team follow their lead so that that  
-00:27:09 I would recommend highly not necessarily  
-00:27:11 coming in with preconceived notions  
-00:27:13 about what a community needs to look  
-00:27:15 like it kind of touched on this that  
-00:27:17 like if the founder believes in the  
-00:27:19 power of community this becomes so much  
-00:27:20 easier a lot of Founders are like nah  
-00:27:22 it's just uh that's a waste of time do  
-00:27:25 you think Founders are convincible that  
-00:27:26 building community and investing  
-00:27:28 Community is worth it have you seen that  
-00:27:31 effective where Founders just like comes  
-00:27:32 into it being like no I don't think this  
-00:27:34 is worth their time and then they kind  
-00:27:36 of get convinced later or is it just  
-00:27:38 like nah forget it don't even try I mean  
-00:27:40 I've talked to a lot of different people  
-00:27:42 who come at this with different  
-00:27:43 Impressions and everybody you know knows  
-00:27:46 more about their company than I do but I  
-00:27:49 do think that if ubiquity or just  
-00:27:52 the sheer sort of Word of Mouth engine  
-00:27:55 is something that is going to be  
-00:27:57 valuable for your company over time I  
-00:27:59 would really urge people to sit down and  
-00:28:01 really think carefully like what is  
-00:28:02 going to be  
-00:28:03 more conducive to our long-term success  
-00:28:05 is it going to be that ubiquity or is it  
-00:28:07 going to be Revenue now  
-00:28:08 and I think if we look at a lot of the  
-00:28:11 companies that have been just wildly  
-00:28:13 successful from the start they're people  
-00:28:15 who have pushed off maybe monetizing  
-00:28:18 every little thing if it's going to  
-00:28:21 really put a damper on that type of  
-00:28:23 enthusiasm and momentum that people have  
-00:28:25 to share it at what it is they're doing  
-00:28:27 because there's always opportunity I  
-00:28:29 think later once you have that big tide  
-00:28:31 of people who are not just excited but  
-00:28:34 also legitimizing what it is that you do  
-00:28:36 every single day that gets mobilized in  
-00:28:39 a lot of different directions and you  
-00:28:41 have a lot more options then what's  
-00:28:42 interesting about notion is it's you  
-00:28:45 have high ltvs when you sell to larger  
-00:28:47 companies but the initial users are  
-00:28:50 often just regular folks  
-00:28:52 and so I think it's like in a unique  
-00:28:54 place where you can you have cash to  
-00:28:56 spend on making it ubiquitous and  
-00:28:58 getting the word out through all these  
-00:29:00 Community efforts because it'll pay off  
-00:29:01 a lot of companies probably don't have  
-00:29:03 that Advantage so would it feel right to  
-00:29:06 say that this is really effective for  
-00:29:08 kind of like product-led growth the  
-00:29:10 freemium products uh most is that is  
-00:29:14 that a good way to think about it yeah  
-00:29:16 or I think if organic growth is  
-00:29:17 something that you see being really  
-00:29:19 beneficial or if organic growth happens  
-00:29:22 to be something you really have to crack  
-00:29:24 because you don't always have everything  
-00:29:25 you need for paid growth from you know  
-00:29:28 either a resourcing standpoint team  
-00:29:30 standpoint really figuring out how to  
-00:29:32 get that organic flywheel going can  
-00:29:35 serve you well it becomes this buttress  
-00:29:37 for any paid growth you explore in the  
-00:29:39 future  
+### [Video link](https://www.youtube.com/watch?v=It-nZdG7b3s)
+
+00:00:01 (funky music)
+
+00:00:12 - Hey hey!
+
+00:00:13 Welcome to another episode of Marketing Against the Grain,
+
+00:00:14 your show for marketing-minded people everywhere.
+
+00:00:17 I'm your host, Kipp Bodnar, CMO at HubSpot.
+
+00:00:19 I'm joined as always by my co-host Kieren Flanagan,
+
+00:00:22 the CMO over at Zapier.
+
+00:00:23 And we have a very, very special guest
+
+00:00:25 Today we are joined by Lenny Rachitsky,
+
+00:00:28 and Lenny is the host of Lenny's Podcast.
+
+00:00:31 He is the author of Lenny's Newsletter.
+
+00:00:34 He is one of the foremost experts on product and growth in
+
+00:00:37 the world, to me at least.
+
+00:00:38 I love his content.
+
+00:00:40 We've been wanting to have Lenny for a long time.
+
+00:00:42 Lenny, I'm so excited to have you on the show.
+
+00:00:44 - Thanks for having me.
+
+00:00:45 Quite the intro, really appreciate it.
+
+00:00:46 - You deserve that kind of an intro.
+
+00:00:48 Are you serious?
+
+00:00:49 (Lenny laughs)
+
+00:00:50 You've got one of the top business podcasts in the world,
+
+00:00:53 you've got this incredible newsletter, and you've built on
+
+00:00:55 some amazing experience in product and growth and are now
+
+00:00:58 taking that out to the world and teaching everybody.
+
+00:01:00 So we're excited to have you here with us today, and I know
+
+00:01:04 there's a bunch of places we want to go.
+
+00:01:06 Kieren, I wanna kick it over to you
+
+00:01:07 so that you can kind of kick
+
+00:01:08 things off in our discussion today.
+
+00:01:10 - Lenny, you have an incredible background.
+
+00:01:12 I know we've talked before and you may wanna give the
+
+00:01:15 audience some context of, you know,
+
+00:01:17 your kind of journey in tech, or at least at Airbnb.
+
+00:01:20 The thing we'd really love to start on
+
+00:01:22 is in relation to that, what,
+
+00:01:23 if anything, has been different or the same about growing
+
+00:01:27 like a content audience,
+
+00:01:29 an audience for content mediums,
+
+00:01:30 and that you manage to bring some of those learnings
+
+00:01:32 from Airbnb into what you're doing today.
+
+00:01:34 Like I'm really interested in how this stuff that you used
+
+00:01:36 to do translates to what you do today.
+
+00:01:38 - I think what's most interesting is
+
+00:01:39 it's very few things translate.
+
+00:01:42 (all laugh)
+
+00:01:43 - That's interesting.
+
+00:01:44 - Yeah, so, I led supply growth at Airbnb
+
+00:01:46 for a long time, and then I led the team
+
+00:01:48 that helped the booking experience,
+
+00:01:49 help you book on Airbnb.
+
+00:01:51 So I'm basically optimizing conversion,
+
+00:01:52 and so I spent a lot of time on growth.
+
+00:01:55 But interestingly, what I found with the newsletter and with
+
+00:01:57 the podcast, is nothing helps it grow other than just
+
+00:02:02 consistency and quality of content.
+
+00:02:04 - Mm-hm.
+
+00:02:05 No hacks?
+
+00:02:06 - No.
+
+00:02:07 Like, once in a while there's a couple spikes here and
+
+00:02:09 there, but there's no,
+
+00:02:10 nothing like sustainable helps to grow other than just
+
+00:02:15 consistently putting out good stuff.
+
+00:02:16 Like, I was just gonna say, I tried referrals,
+
+00:02:17 I tried paid ads, I tried guest posts,
+
+00:02:20 and those helped early on.
+
+00:02:21 There's a few things that helped early on
+
+00:02:23 just kind of get it kick-started.
+
+00:02:24 But if you just look at like the trend line of growth,
+
+00:02:26 nothing makes a dent other than just keeping at it and
+
+00:02:29 keeping the quality bar high.
+
+00:02:32 - Can I say one thing that I do think
+
+00:02:33 from my own perspective,
+
+00:02:34 being like a consumer of your content and so, okay.
+
+00:02:36 You, you know, obviously one thing
+
+00:02:38 that helps is that you are in that space,
+
+00:02:40 and you are very well regarded within that space, where it
+
+00:02:43 does help you get the kind of people onto your podcast and
+
+00:02:45 maybe get people, you know,
+interacting with your content.
+
+00:02:47 But the thing that I think stuck out in terms of your
+
+00:02:50 content early on was how you included these kind of
+
+00:02:54 mini case studies, right?
+
+00:02:55 You just put out a post on inflection points, and it's all
+
+00:02:58 real world stories and it's case studies like,
+
+00:03:01 but they're miniature case studies.
+
+00:03:02 It's not like this like 24 page case study
+
+00:03:05 on how Facebook did this.
+
+00:03:06 It's like these kind of quick hits of all of the things that
+
+00:03:10 companies did around a singular topic.
+
+00:03:12 So do you kind of agree that helped
+
+00:03:13 to differentiate you, and if so,
+
+00:03:15 was that on purpose or you kind of just stumbled upon that?
+
+00:03:18 Like was that a very thoughtful, like,
+
+00:03:19 "I'm gonna try this as an experiment," or just like,
+
+00:03:21 "I'm gonna do this because I wanna do it."
+
+00:03:23 - So with questions like that,
+
+00:03:24 I think if Seinfeld has this funny thing that people ask
+
+00:03:27 him, like people are like, "Hey Jerry Seinfeld,
+
+00:03:29 why don't you like do other types of comedy?
+
+00:03:31 Like why'd you like,
+
+00:03:32 how'd you narrate it on this thing that you do?"
+
+00:03:34 And he's like, "This is all I know how to do.
+
+00:03:35 (Kieran and Kipp laugh)
+
+00:03:36 Like if I could do other things,
+
+00:03:37 I would do other things."
+
+00:03:39 And so with that post and a lot of posts,
+
+00:03:41 like if I had the answer, I'd be like, "Here's the answer,
+
+00:03:43 I've got it," but I just don't.
+
+00:03:46 And so it comes out of like,
+
+
+00:03:47 I just want to get you the best possible answer,
+
+00:03:49 when I do research and ask people
+
+00:03:50 that actually know what they're doing.
+
+00:03:52 Where it actually started.
+
+00:03:53 The first time I did that, I left Airbnb,
+
+00:03:55 I was there a long time,
+
+00:03:56 people kept asking me all these questions about how to build
+
+
+00:03:58 a marketplace company and I was like,
+
+00:04:01 "Well here's like what Airbnb did,
+
+00:04:02 but I don't know if that's the way to do it."
+
+00:04:04 Maybe there's other things that could have worked.
+
+00:04:06 Maybe there's things we did that worked
+
+00:04:07 in spite of ourselves.
+
+00:04:09 And so what I did is I embarked on
+
+00:04:11 this big research project,
+
+00:04:12 I just talked to all the biggest marketplace
+
+00:04:14 companies and see what they did, and see if there's any
+
+00:04:16 patterns that emerge across all marketplace companies.
+
+00:04:19 And that turned into this five part series of how to
+
+00:04:22 kickstart and scale marketplace business.
+
+00:04:24 And that did really well.
+
+00:04:26 So, I kinda learned from that experience of,
+
+00:04:27 "Man, this is a really good way of doing it,
+
+00:04:29 I'm just kind of doing primary research on behalf of people,
+
+00:04:31 and it's like very low cost for them."
+
+00:04:35 And I spent all this time doing the work
+
+00:04:37 and I could see why it's valuable.
+
+00:04:38 Because I've done a lot of work for people.
+
+00:04:40 - That's what I wanna get into.
+
+00:04:41 Like, one of the things you said
+
+00:04:42 is like keeping the quality bar high, right?
+
+00:04:44 And I think Kieran, you
+and I, in doing this show,
+
+00:04:47 we've learned that
+stories, examples, data,
+
+00:04:50 and more importantly, just
+to what you were saying,
+
+00:04:52 Lenny, research matters so much.
+
+00:04:54 It's like, oh, you have
+this unique perspective
+
+00:04:56 and insight that has real depth to it.
+
+00:04:58 That's what really resonates with people.
+
+00:05:00 But somehow, Lenny,
+you do that constantly.
+
+00:05:03 And (chuckles) that's what I
+don't understand, is like you,
+
+00:05:05 between the newsletter and the podcast,
+
+00:05:06 you have this like unending flow of it.
+
+00:05:09 And as somebody who's doing it right now,
+
+00:05:11 it's very hard and it takes a lot of time.
+
+00:05:13 Like how are you pulling it off?
+
+00:05:15 - The secret is lots of hard
+work and many hours of work.
+
+00:05:19 One of the advantages I have is,
+
+00:05:20 unlike you two, you have
+full-time jobs, I don't.
+
+00:05:24 - This is true.
+
+00:05:24 - So there's this kind of like
+cool flywheel that kicks in
+
+00:05:26 once you get to a point where
+you could do this full-time is
+
+00:05:28 you just have a lot more
+time than anyone else.
+
+00:05:30 And I find a really direct
+correlation between the amount of
+
+00:05:33 time I put into something and
+the success of that piece.
+
+00:05:36 So the secret is just putting in time,
+
+00:05:38 and the things that you find useful,
+
+00:05:41 usually the person spent more
+time on that than somebody
+
+00:05:43 else that tried to do that,
+and not nearly as well.
+
+00:05:46 - Well while I agree with
+you on the time part,
+
+00:05:48 the other part of that is like,
+
+00:05:49 what you pick to spend that time on.
+
+00:05:51 Because like there are a lot of people who
+
+00:05:52 put a lot of time in and pick bad stuff.
+
+00:05:54 That doesn't resonate with people.
+
+00:05:55 So I'd like like to hear
+how you pick the stuff.
+
+00:05:58 - The way I picked the stuff, and
+
+00:05:59 I didn't think about it this way,
+
+00:06:00 but it ended up being really powerful,
+
+00:06:01 is I started the newsletter
+as an advice column,
+
+00:06:04 like a Dear Abbey type thing
+where people send me questions
+
+00:06:07 and I answer their question.
+
+00:06:08 And what turns out is smart about that,
+
+00:06:10 is that that content is
+rooted in a real problem
+
+00:06:13 somebody actually has,
+not just me pontificating
+
+00:06:15 on something that may be a thing.
+
+00:06:17 So that helps a lot, is just
+like rooting your work on like
+
+00:06:21 "What does somebody actually need?"
+
+00:06:22 And that kind of comes back to, I think
+
+00:06:23 one of the most important parts
+of writing and content, is
+
+00:06:26 there's like a job to be done
+that you need to nail better
+
+00:06:30 than somebody else.
+
+00:06:31 So if you think about newsletters,
+
+00:06:32 what are the jobs to be done?
+
+00:06:33 There's like, "Entertain me."
+
+00:06:35 So there's a lot of newsletters
+and podcasts of just like
+
+00:06:38 fun stuff and humor and jokes and comics.
+
+00:06:40 Another job to be done
+is help them make money.
+
+00:06:42 There's a lot of newsletters
+that help you invest in Bitcoin
+
+00:06:44 timing and stuff like that.
+
+00:06:46 There's a job to be done of just,
+
+00:06:47 "Help me be better in life."
+
+00:06:48 So there's like Emily Oster, and like,
+
+00:06:50 just like practical advice stuff.
+
+00:06:52 Another job to be done
+which I'm in is just,
+
+00:06:55 "I wanna be better at work."
+
+00:06:56 And so, what are ways I can
+help you be better at work?
+
+00:06:59 For me it's like, help you build
+
+00:07:00 better product, grow product.
+
+00:07:01 There's other, you know,
+there's all kinds of work.
+
+00:07:03 So there's like a lot of opportunities,
+
+00:07:04 like help salespeople
+be better salespeople,
+
+00:07:06 help engineers be better engineers.
+
+00:07:08 So there's a lot of
+like niches within that.
+
+
+00:07:09 But I think it's really important
+you figure out what's the
+
+00:07:11 job you're doing for someone,
+and then just do that better
+
+00:07:14 than anyone else that's
+doing it out there.
+
+00:07:16 And the key there is
+just putting in the time.
+
+00:07:18 - Which does speak to your
+background in product, right?
+
+00:07:20 Like you approached
+everything from, you know,
+
+00:07:22 a job to be done, a problem to be solved.
+
+00:07:23 - Maybe, yeah.
+
+00:07:24 - I was gonna say that you
+
+00:07:25 said there wasn't that much transferrable.
+
+00:07:26 That is definitely a pure rip
+out of the product here world.
+
+00:07:29 - Okay, there's one, we got one.
+
+00:07:30 - The thing I'm obsessed by is like,
+
+00:07:31 for people who have like
+reached your kind of success,
+
+00:07:33 like how much of it is
+like very thoughtful,
+
+00:07:36 because when you were in Airbnb,
+
+00:07:37 I assume like part of leading
+the grow team is hypothesis,
+
+00:07:41 iteration, test and experiment,
+
+00:07:43 trying to find the thing, and
+like how much of a creator
+
+00:07:46 success is stumbling upon the thing,
+
+00:07:48 versus like being very intentful
+about that is the thing.
+
+00:07:52 And it sounds like maybe
+it's part and part,
+
+00:07:55 like you did go through a process
+when you were like, "Okay,
+
+00:07:57 well here are the jobs to be done.
+
+00:07:58 Here's one that I can
+solve and I can solve it.
+
+00:08:00 I feel I can solve it in a better way."
+
+00:08:02 But then there's like a
+little bit of stumbling, and
+
+00:08:05 hopefully this is gonna be
+the thing that resonates.
+
+00:08:07 - Yeah, so to be clear,
+I wasn't actually like,
+
+00:08:09 "What are the jobs to be done
+
+00:08:11 and what job can I do for people,"
+
+00:08:12 that's like looking back I
+could see why it worked out.
+
+00:08:15 It was 90% stumbling,
+and more specifically,
+
+00:08:18 so I left Airbnb, I had this plan of like,
+
+00:08:20 "Maybe I'll start a," I
+was there for seven years.
+
+00:08:21 I worked like, intense hours.
+
+00:08:23 It was just like a go go
+go culture for a long time.
+
+00:08:26 And I was just like, "Man,
+I'm gonna just take a break."
+
+00:08:29 And my plan was, "Let me
+start a company again.
+
+00:08:31 Maybe let me explore some ideas I had.
+
+00:08:32 Maybe do advising on the side as a thing,
+
+00:08:34 maybe join a company just like,
+
+00:08:36 here's some options I'm
+thinking about," and
+
+00:08:38 the thing I stuck to is, "Let
+me pay attention to what gives
+
+00:08:42 me energy in this phase,
+and do more of that."
+
+00:08:45 And just like lean into
+that when I get energy from
+
+00:08:47 something, like I have
+a meeting with someone,
+
+00:08:49 did I get energy from
+that or did that suck?
+
+00:08:51 And if something sapped me of
+energy, I did less of that.
+
+00:08:53 That was kind of my rule.
+
+00:08:54 And I just found that writing
+gave me energy, and so I spent
+
+00:08:58 more time doing that, and the
+startup stuff didn't and other
+
+00:09:02 things, and advising didn't.
+
+00:09:04 And I was just like doing advising calls.
+
+00:09:05 Like "I don't want, this is
+stopping me of all my energy."
+
+00:09:07 So most of it was just leaning into
+
+00:09:09 what was giving me energy.
+
+00:09:10 And then I had this conversation
+with a friend about, "Hey,
+
+00:09:13 I thought I wanted to start a company,
+
+00:09:15 but I'm doing this
+writing thing on the side.
+
+00:09:16 What the hell am I doing writing?
+
+00:09:17 There's no future here."
+
+00:09:19 And my wife's like, "Why are you writing?
+
+00:09:21 There's no future in writing."
+
+00:09:22 (all laugh)
+
+
+00:09:23 You know, she had published some books,
+
+00:09:24 like there's nothing,
+
+00:09:25 nothing comes of this on the internet,
+
+00:09:26 writing on the internet.
+
+00:09:27 - Feel like you're just wasting
+your time then, come on.
+
+00:09:28 - She's like, "I thought you wanted to-"
+
+00:09:30 - "Get a real job."
+
+00:09:31 - Exactly.
+
+00:09:32 But this friend had a great point.
+
+00:09:33 Like, "You enjoy doing this.
+
+
+00:09:35 People seem to value it,
+
+00:09:37 which is super rare, that you
+do a thing that people value
+
+00:09:40 and want to keep reading.
+
+00:09:42 That's like very rare."
+
+00:09:44 And his advice was "Don't
+take that for granted."
+
+00:09:46 Like, maybe see where that goes,
+
+00:09:48 even if there's no future
+there, just double down on that.
+
+00:09:49 Maybe it'll lead somewhere.
+
+00:09:51 And so that's what pulled me down
+
+00:09:53 that road is just like, this is working.
+
+00:09:55 Maybe just explore it.
+
+00:09:56 And so I just kind of kept
+doing that, and ended up
+
+00:09:58 continuing to grow mostly
+by just continuing to do it.
+
+00:10:01 So it was a lot of stumbling.
+
+00:10:03 Like I hadn't written much on the internet
+
+00:10:04 before I started down this path.
+
+00:10:06 - Well, and you came from
+a product background,
+
+00:10:07 which there is some writing,
+but it's not like...
+
+00:10:10 - Right, not public writing.
+
+00:10:11 - Yeah, it's not like, you're not writing
+
+00:10:12 every day as a product leader.
+
+00:10:14 And so, clearly that
+was something that like
+
+00:10:17 resonated with you as a
+way to spend your time.
+
+00:10:20 I mean Kieran and I have talked
+about this on a past episode
+
+00:10:23 with Tiki Bush where it's like,
+
+00:10:24 it is the best way to organize
+
+00:10:25 your thoughts and learn
+something, is to write.
+
+00:10:27 - That's exactly what started
+me like, yeah, I just wanted,
+
+00:10:29 like the reason I wrote
+the first thing I wrote,
+
+00:10:32 which ended up doing shockingly well,
+
+00:10:33 which helped me to keep motivated,
+
+00:10:34 is I just wanted to remember
+what I learned at Airbnb.
+
+00:10:38 So my first thing that I wrote was like,
+
+00:10:40 what seven years at Airbnb
+
+00:10:41 taught me about building a company.
+
+00:10:43 Just 'cause I was thinking I'd
+start a company and I'm like,
+
+00:10:45 "Okay, I don't wanna relearn everything.
+
+00:10:47 What the hell did I actually learn?
+
+00:10:49 Let me just sit down and write this down."
+
+00:10:50 And that's exactly,
+like there's this quote
+
+00:10:52 I'm sure you've heard of just like,
+
+00:10:53 "I don't know what I think
+until I've written it down."
+
+00:10:55 And I fully feel it.
+
+00:10:57 (all chuckle)
+
+00:10:58 - Yeah, when people are talking to me,
+
+00:10:59 like, it's interesting, right?
+
+00:11:00 Because I'm going through onboarding,
+
+00:11:02 like employee onboarding for my first time
+
+00:11:03 in a long, long time.
+
+00:11:04 And when I'm in a meeting and
+like learning about things and
+
+00:11:08 people are talking to me,
+
+00:11:09 I kind of like somewhat understand it,
+
+00:11:11 but I actually need to write
+it out in some sort of like
+
+00:11:13 strategic memo or a two pager,
+
+00:11:15 and then I kind of internalize
+it and it makes sense to me.
+
+00:11:17 And I think it's an
+incredible skill that people
+
+00:11:20 underestimate that, you know,
+
+00:11:22 no matter what discipline
+you do within the company,
+
+00:11:25 writing is such like an
+intrinsic part of how you
+
+00:11:28 communicate in today's world,
+
+00:11:30 especially when we're
+gravitating much more
+
+00:11:31 towards remote work.
+
+00:11:32 Like actually writing is how
+you communicate anything within
+
+00:11:36 the company, and it's a
+real skill to be learned.
+
+00:11:37 So I think I agree.
+
+00:11:39 Like I think it's a great way
+
+00:11:40 to internalize your learnings.
+
+00:11:41 - Yeah, I think a lot of people look at a,
+
+00:11:43 like that post you mentioned
+about growth inflections.
+
+00:11:45 Like, I imagine many people
+think I already have the answer
+
+00:11:48 as I start writing.
+
+00:11:49 Like, "Here's the answer
+
+00:11:50 to what causes an inflection growth."
+
+00:11:52 But it's the opposite.
+
+00:11:53 I start just like dumping
+thoughts into a doc,
+
+00:11:56 getting quotes, talking
+to people, and that forms
+
+00:11:57 the conclusion, like that
+comes after I start writing.
+
+00:12:01 The writing helps me get
+there versus I come into it
+
+00:12:03 thinking, "Here's the answer!"
+
+00:12:04 - Yeah, like the magic of it is like,
+
+00:12:06 the summarization and the framing.
+
+00:12:07 It's like, "Oh, I know that I
+want to answer this question,
+
+00:12:10 but I don't know what the
+most important parts are."
+
+00:12:13 Maybe I've got 10 really important things,
+
+00:12:14 but I know that there are three
+
+00:12:15 that are like the most important.
+
+00:12:17 I need to figure those out.
+
+00:12:17 And like that's the blend of the
+
+00:12:19 art and science of that.
+
+00:12:20 And so I kind of get
+the natural progression
+
+00:12:23 of how you got to writing,
+
+00:12:25 and the ritual of the
+newsletter and getting there
+
+00:12:27 kind of recurring.
+
+00:12:28 How the hell did you like then say, "Hey,
+
+00:12:30 you know what I wanna
+do, I wanna do a podcast.
+
+00:12:32 That's even harder.
+
+00:12:33 It's even harder to
+get out into the world.
+
+00:12:34 I've gotta, it has way more logistics.
+
+00:12:37 It's not just me sitting
+in a room writing,
+
+00:12:38 I've gotta like have all
+of these conversations
+
+00:12:40 and scheduling and everything."
+
+00:12:42 Like why?
+
+00:12:43 - So, I may not feel like
+this on the outside, but
+
+00:12:45 I'm trying to like keep
+it chill and not do a lot.
+
+00:12:49 So I've had these like things
+I should do, write a book,
+
+00:12:52 start a podcast, run a
+course, and I've always like,
+
+00:12:55 "I will never do any of these."
+
+00:12:56 I just, like the newsletter
+life is really good.
+
+00:13:00 Like I just write an awesome
+email once a week and I make a
+
+00:13:02 meaningful income, like much
+more than I made at Airbnb.
+
+00:13:05 And so I'm like, "Why
+would I do anything more?
+
+00:13:07 This is great," but-
+
+00:13:08 - Sounds awesome to me! (laughs)
+
+00:13:10 - (chuckles) It's pretty sweet.
+
+00:13:11 (all laugh)
+
+00:13:12 And so I've avoided all
+those things for a long time.
+
+00:13:15 But with the podcast, I did
+Harry Stebbings' podcast 20VC
+
+00:13:20 at one point, and at the end
+of the recording he's like,
+
+00:13:22 "Lenny, you idiot, you
+should be doing a podcast.
+
+00:13:24 You're good at this,
+you have things to say.
+
+00:13:26 There's a lot of
+opportunity in podcasting."
+
+00:13:28 He's like, "You should do a podcast."
+
+00:13:30 So that's actually what
+got me over the hump.
+
+00:13:32 Like, Harry Stebbings telling
+me "You should do a podcast."
+
+00:13:35 And it was like years and
+years of me just like,
+
+00:13:37 "No, I will never do a podcast.
+
+00:13:38 There's so many podcasts,
+
+00:13:39 what the hell would I add to it?"
+
+00:13:41 And then I just started trying it.
+
+00:13:42 And I just started doing it,
+actually turns out it's a lot
+
+00:13:45 easier than the newsletter to be honest.
+
+00:13:46 I have a-
+
+00:13:47 - Oh really?
+
+00:13:48 How so?
+
+00:13:49 - So the newsletter,
+
+00:13:50 like the simple way to think
+about it with the newsletter,
+
+00:13:51 I have to come up with unique
+interesting insights and write
+
+00:13:54 them out and craft them
+in a consumable way.
+
+00:13:57 The podcast I just, I extract that
+
+00:13:59 from someone else's brain,
+
+00:14:00 like you guys are doing here. (chuckles)
+
+00:14:02 And so like, you know, it
+takes like maybe three,
+
+00:14:04 four hours per episode
+of prep and recording,
+
+00:14:06 and I have a producer that helps edit it.
+
+00:14:08 The newsletter takes like
+10 hours minimum per post.
+
+00:14:11 Some 20, some 100.
+
+00:14:13 - Wow.
+
+00:14:14 - It's also, podcast is easier.
+
+00:14:15 It's more lucrative it turns out,
+
+00:14:16 and it's a little more
+energizing, you know,
+
+00:14:18 this is like fun and
+it's like the end of it
+
+00:14:20 you feel kind of cool.
+
+00:14:21 You did this whole thing.
+
+00:14:22 - You get to see humans. (chuckles)
+
+00:14:23 - But I will say, the podcast,
+
+00:14:24 like a lot of stuff I did turns out
+
+00:14:26 to be smart looking back,
+
+00:14:27 it's easier to grow the
+podcast with the newsletter.
+
+00:14:30 Every episode I share with my audience,
+
+00:14:31 which is large now.
+
+00:14:33 So I think the right order is,
+
+00:14:35 build an awesome newsletter
+and then launch a podcast.
+
+00:14:37 It's harder, I think,
+the other way around.
+
+00:14:39 - Yeah, podcast is a great add-on
+
+00:14:41 to engage existing audience.
+
+00:14:42 It is definitely a hard
+like front door to build,
+
+00:14:44 which is like first way
+to build that medium.
+
+00:14:46 Hopefully it's not too bad jumping around.
+
+00:14:48 Like one thing I'm really
+curious about, just coming
+
+00:14:49 back to newsletter just
+for for one moment is,
+
+00:14:53 and it kind of ties really
+nicely to your latest post if
+
+00:14:55 anyone wants to go read
+that, on inflection points.
+
+00:14:57 Like I'm curious like how
+quickly you got to the inflection
+
+00:15:00 point where you were like, "Oh,
+
+00:15:02 like this could be a business," right?
+
+00:15:04 Because one of the things you
+
+00:15:05 mentioned is perseverance, right?
+
+00:15:07 And perseverance is a really
+underrated skill because
+
+00:15:09 everyone's looking like,
+
+00:15:10 I started off looking for the hacks.
+
+00:15:11 It was like, well if
+anyone can gimme the hacks,
+
+00:15:13 Lenny can gimme the hacks because like,
+
+00:15:16 he has growth principles
+baked into the work he does.
+
+00:15:19 And it was like, no.
+
+00:15:20 Like consistency and perseverance.
+
+00:15:21 And so how long did you
+have to have that kind of
+
+00:15:23 perseverance for until you saw
+
+00:15:26 some sort of inflection
+point where like, "Wow,
+
+00:15:28 like I could actually tell my wife
+
+00:15:30 this could be a business, right?"
+
+00:15:32 Like, I'm actually doing
+something real here.
+
+00:15:33 - Actually when I started the newsletter,
+
+00:15:35 I actually called it Project
+Avoid Getting a Real Job.
+
+00:15:38 (all laugh)
+
+00:15:39 And that was the goal, like,
+can I make enough money?
+
+00:15:41 Can I make more salary than
+I made in salary at Airbnb?
+
+00:15:44 That was like initially actually the goal
+
+00:15:46 was can I make 100K a year?
+
+00:15:47 'Cause that's like wow, holy shit,
+
+00:15:49 100K for my writing a thing once a week.
+
+00:15:51 And then I set that goal to 300K and then
+
+00:15:53 it's gone far beyond that.
+
+00:15:55 So there is actually a couple hacks,
+
+00:15:57 I wouldn't call 'em hacks,
+
+00:15:58 but that have led to some inflections.
+
+00:16:00 So early on, the way I got my, say,
+
+00:16:03 first 100 subscribers is, I wrote
+
+00:16:06 like a popular thing on
+Medium, and that got me some
+
+00:16:09 followers on Medium, and that
+turned into Twitter followers
+
+00:16:12 and I started tweeting nuggets
+from that post on Twitter,
+
+00:16:14 and that started building
+a Twitter audience.
+
+00:16:16 So there's kind of like
+flywheel of Twitter and Medium.
+
+00:16:19 So that got me about
+about 100 subscribers.
+
+00:16:21 And this is like one of the examples of,
+
+00:16:22 I wouldn't call it a hack,
+
+00:16:24 but it led to a spurt, is
+doing guest posts on other
+
+00:16:27 newsletters with the same audience.
+
+00:16:29 So for me, I got the next 1000 subscribers
+
+00:16:32 by doing a guest post on
+the First Round Review,
+
+00:16:34 and also Andrew Chen's blog.
+
+00:16:36 And so those helped a lot.
+
+00:16:38 That was just me getting started,
+and the key there was like
+
+00:16:41 I had interesting things to say,
+
+00:16:42 and they wanted to share
+it, so that was the key.
+
+00:16:45 So it comes back to quality again.
+
+00:16:46 So that got me to the
+first 1000 subscribers.
+
+00:16:49 Then to get to the next 10,000
+was just writing every week
+
+00:16:53 for nine months, just keeping at it.
+
+00:16:54 And it's just, if you
+look at the growth chart,
+
+00:16:56 it's just linear growth
+through those nine months.
+
+00:16:58 So then I was about 10,000
+subscribers and that's when Covid
+
+00:17:00 hit and I was making no money for a year.
+
+00:17:03 Airbnb stock was like dead,
+
+00:17:05 (all laugh)
+
+00:17:06 which I was-
+
+00:17:08 - "I'd like some money
+now, please!" (laughs)
+
+00:17:10 - Yeah, like I assumed I could do this
+
+00:17:12 because I had some savings in Airbnb stock
+
+00:17:15 that one day would IPO, and
+it was not looking good.
+
+00:17:17 They had to like, take this
+massive $2 billion loan and it
+00:17:20 was just like, travel was
+gonna not happen again maybe.
+00:17:23 So I got really worried.
+00:17:25 And so that's when I actually
+launched the paid plan.
+00:17:27 I was like, "Okay, Project
+Avoid Getting a Real Job,
+00:17:30 Let's do this for real.
+00:17:31 Let's see if I can make money doing this."
+00:17:32 And so I launched the
+paid plan about eight,
+00:17:34 nine months after I started writing.
+00:17:36 And it did like okay initially,
+00:17:38 but basically just doing
+that for another year,
+00:17:41 two years every week helped
+it continue to grow and kept
+00:17:44 growing, growing across 300K.
+00:17:45 So then the actual next big
+inflection came actually fairly
+00:17:49 recently where SubStack launched
+00:17:50 this feature where you can
+refer other newsletters,
+00:17:53 you can recommend other newsletters,
+00:17:55 which seems like a really
+simple, no big deal feature.
+00:17:58 But it turns out a lot of newsletters
+00:18:00 are recommending my newsletter.
+00:18:01 So when you sign up for my newsletter,
+00:18:02 you get recommended 10 newsletters
+00:18:05 that I love, and I picked them.
+00:18:06 And so there's this like really cool
+00:18:08 network effect that's happening now.
+00:18:10 So about 1000 other newsletters
+recommend my newsletter.
+00:18:13 And so as soon as they
+launch that feature,
+00:18:15 I just have this like
+hockey stick of growth
+00:18:17 that's happening, and
+it's still happening.
+00:18:18 And I think I'm in the
+onboarding flow when you sign up
+00:18:20 because I'm the number one
+business newsletter you kind of
+00:18:22 get recommended my newsletter.
+00:18:24 So, there's never been an easier time
+00:18:25 to grow large newsletter,
+because of that one feature.
+00:18:27 If you write awesome stuff
+and people recommend you,
+00:18:30 you can grow really quickly now.
+00:18:31 - I remember back in the day,
+00:18:33 the problem to solve for their
+audience was distribution
+00:18:37 because newsletters
+somewhat like podcasts,
+00:18:38 or most of the newsletters,
+00:18:40 and Kipp and I talked to all
+of the big newsletters when we
+00:18:43 went through the kind of research phase
+00:18:44 of trying to find the hustle.
+00:18:46 Like they're predominantly
+all paid advertising in some
+00:18:49 respects, because there's no
+00:18:50 like one built in core
+mechanism to like grow those.
+00:18:53 And so they really did nail
+that it sounds like, SubStack.
+00:18:55 Do those thousand newsletters
+get any type of affiliate
+00:18:58 commission for recommended you, like-
+00:19:00 - Nope.
+00:19:01 - They just do it organically?
+00:19:02 - Yeah.
+00:19:02 It's just like, what do
+you think is awesome?
+00:19:04 And yeah, it's just like,
+00:19:05 what do you think is
+great for people to read,
+00:19:07 and it feels nice to
+recommend great stuff.
+00:19:09 That's it, yeah.
+00:19:09 You know, I tried referrals
+and it doesn't work.
+00:19:12 Like, I think for some
+newsletter it would work,
+00:19:14 obviously Morning Brew
+and stuff like that.
+00:19:15 But I think it has to be a certain
+00:19:17 personality of a newsletter
+for it to be like,
+00:19:19 "Send this to all your friends,
+get a hat, get stickers."
+00:19:21 You know, it's a different-
+00:19:22 - Well it needs to be more, you know,
+00:19:24 higher altitude versus
+the depth that you go to
+00:19:27 in your newsletter, right?
+00:19:28 - Right.
+00:19:29 - Because the thing I
+was gonna ask actually,
+00:19:30 and you kind of maybe
+answered it with SubStack,
+00:19:32 and I'm interested what both of you think
+00:19:34 is, if you were going to go down that
+00:19:36 original path and you started a company,
+00:19:37 the thing you were gonna have
+to really think about and most
+00:19:40 founders do, is like defensibility.
+00:19:41 Like how is this like thing defensible?
+00:19:43 How about not to be commoditized?
+00:19:45 And what's interesting content is
+00:19:46 the feedback loops are really quick.
+00:19:48 Like Kipp and I talk about
+this, where you see someone has
+00:19:50 figured out like threads on
+Twitter and then like everyone
+00:19:53 does threads on Twitter, right?
+00:19:55 Or someone figures out like
+shitposting is a thing and then
+00:19:57 everyone is shitposting, right?
+00:19:58 And so everyone can replicate
+things much faster 'cause the
+00:20:00 barrier to entry is much lower.
+00:20:02 And I was gonna ask you like as
+00:20:03 a founder of a content brand,
+00:20:05 like how do you think about defensibility,
+00:20:07 but maybe your defensibility as, well,
+00:20:09 I've got inserted into
+the SubStack, you know,
+00:20:11 framework, and so it's gonna
+be really hard for anyone
+00:20:13 to replicate that.
+00:20:15 - On the one hand, I don't
+really think about that.
+00:20:17 I think if you just keep providing
+valuable stuff to people,
+00:20:20 they're going to keep wanting it.
+00:20:22 So I think the question is,
+00:20:23 will someone come around
+that does much better
+00:20:24 than I at the same thing.
+00:20:26 Like I'm not that smart.
+00:20:27 (Kipp and Kieran laugh)
+00:20:28 People have more time,
+they have more experience.
+00:20:29 It could definitely happen, 100%,
+00:20:31 but I will say I don't like,
+00:20:34 I don't know why it
+hasn't happened, honestly.
+00:20:35 I have found a lot of people are modeling
+00:20:37 their newsletters now after my newsletter.
+00:20:39 Like I see welcome emails
+just like completely
+00:20:42 copied my welcome emails.
+00:20:44 (Kipp and Kieran laugh)
+00:20:45 There's a lot of like, advice
+column style newsletters.
+00:20:48 Exactly like I, like
+the intros are the same.
+00:20:51 So there's a lot of, like you know,
+00:20:53 it's the sincerest form of flattery,
+00:20:55 people modeling the approach.
+00:20:57 No one's come like right at
+exactly what I'm doing yet.
+00:20:59 I wouldn't be surprised if it happened.
+00:21:01 Obviously I have a headstart,
+00:21:02 I don't think about it too much,
+00:21:03 but it could definitely happen.
+00:21:05 I don't think there's
+much of a moat, you know.
+00:21:06 - Let's talk about that though
+because I think your moat is,
+00:21:09 you know, the grind that
+you've done obviously,
+00:21:11 but then it's also like
+that quality of content,
+00:21:13 like that taste and knowledge which
+00:21:15 you have on the core subject area.
+00:21:17 And you've talked about
+a lot on the show so far,
+00:21:20 but I guess I'd love to, you know,
+00:21:22 take a trip inside your head
+like what are the questions you
+00:21:24 ask yourself to know if something
+00:21:27 is meeting your bar, that it's like,
+00:21:30 it's really great and like
+this is gonna be something that
+00:21:31 is valuable in the world, and
+gonna be more valuable than
+00:21:34 anybody else could do this week.
+00:21:36 And subsequently like,
+"I feel great about it."
+00:21:38 - Like, I wish I had like a formula of
+00:21:40 like, "Here's what I look for."
+00:21:41 A lot of it comes down
+to, I just look at it
+00:21:43 again and again and again.
+00:21:45 Like, most of my writing is just editing.
+00:21:46 I start with just like a bunch
+of content and writing and
+00:21:49 bullet points, and then
+I form it into something,
+00:21:51 and then I just look at it
+00:21:53 like a hundred times
+as I keep reviewing and
+00:21:55 editing, I email it to myself,
+00:21:57 I look at it on my phone, and
+I basically get to a point
+00:22:00 where I just feel like, this
+is strong enough and there's
+00:22:03 nothing I can cut and
+there's nothing that's
+00:22:05 just like consistently confusing me.
+00:22:07 And that's kind of the core of it.
+00:22:09 I just look at it a thousand
+times and keep looking and
+00:22:11 looking and looking, and what can I cut?
+00:22:12 There's this really influential
+book on my writing, book
+00:22:15 that's been really
+influential in my writing,
+00:22:16 called On Writing Well.
+00:22:17 - Oh yeah, Darmesh loves that book too.
+00:22:19 - Basically it's just, cut everything.
+00:22:20 Is the conclusion just
+cut, cut, cut, cut, cut.
+00:22:22 (Kipp and Kieran laugh)
+00:22:23 And it's like a hundred chapters on
+00:22:24 all the things you should cut.
+00:22:25 So that actually had a big impact on me
+00:22:26 and I just kind of look for that,
+00:22:28 like, what is not necessary
+and then how do I just tighten
+00:22:30 and simplify and bullet point
+it and charts and table it.
+00:22:34 So that's the core of it.
+00:22:36 Like, you know, I try to find
+00:22:37 like ways to engage
+people in the beginning,
+00:22:39 like make it a surprise
+or make it interesting
+00:22:41 or story at the beginning.
+00:22:42 That's what I'm trying
+to work on a little bit,
+00:22:44 is like actual writing writing,
+00:22:45 not just, here's content information,
+00:22:46 but mostly it's just
+looking at a thousand times,
+00:22:49 and that comes back to the time.
+00:22:50 Like I just have the time to do that
+00:22:51 and I think that's what makes it better.
+00:22:53 - Yeah, so really your
+bar of quality is like,
+00:22:54 "Oh, I have a feedback loop of topics that
+00:22:57 people want because of the
+format I'm doing this thing in,"
+00:23:01 I'm in, have a research process
+00:23:02 that I go and validate that topic
+00:23:06 through through my own first-party
+00:23:07 research talking to people.
+00:23:08 And then you're like, I
+try to be a ruthless editor
+00:23:10 and break that down and
+make it the best, clearest,
+00:23:14 most simple distillation of that solution.
+00:23:17 Like I remember having a
+college journalism professor,
+00:23:19 he was like, "Go through
+and underline every just,
+00:23:21 and every very, and then
+cross them all out." (laughs)
+00:23:24 You know, like, get rid
+of like all these things
+00:23:26 that don't do anything.
+00:23:28 And you're saying like that's
+00:23:29 a really important part of just
+00:23:30 getting the idea as tight as possible.
+00:23:32 - Yeah, so let's look at the example
+00:23:34 of that growth inflections
+post, which was super recent.
+00:23:36 So the question there was,
+00:23:38 what causes an inflection in growth?
+00:23:40 And what I do with those is,
+I think about what are the
+00:23:42 companies I would love to get insights
+00:23:43 from and stories of like
+what helped them grow?
+00:23:46 So the way I start there
+is just make a list.
+00:23:48 Here's the companies I would
+love to capture stories from,
+00:23:51 and then I just go email people
+00:23:52 that I know at these companies.
+00:23:54 And what's cool, another
+flywheel that kicks in
+00:23:56 with this is the more of this
+00:23:58 I do, the more connections I've built,
+00:23:59 the more companies I'm close with.
+00:24:01 So I just kind of email these
+people, and I try not to bug
+00:24:03 'em too much, but often people
+00:24:05 are excited to, you know, contribute.
+00:24:07 So I just sent an email,
+00:24:09 "Here's my question, what can you share?"
+00:24:11 And then I just capture all those
+00:24:12 and see what comes out of it.
+00:24:14 That's roughly the approach.
+00:24:15 - I think that is like,
+00:24:16 understated in how powerful it is.
+00:24:18 Like there's a, you and I
+talked about this, right?
+00:24:21 I brought it up in the last podcast Kipp,
+00:24:22 there's a Twitter handle where
+there's a sales community and
+00:24:25 they tweet like real stats
+from that sales community.
+00:24:29 And that sales community,
+00:24:30 it's anonymous, so I don't actually know,
+00:24:31 'cause they do tweet things that
+00:24:33 you can't really share
+as a public company.
+00:24:34 (all laugh)
+00:24:35 But whatever, but whatever.
+00:24:37 It's really like, but it's anonymized
+00:24:39 and it's aggregated, right?
+00:24:40 But being able to get like, you know,
+00:24:42 the look behind the scenes,
+00:24:43 there's kind of two ways I
+think about your content.
+00:24:45 First of all, like you
+described it, like I'm learning,
+00:24:47 like when you're putting a case together,
+00:24:50 like you're the curious learner
+00:24:51 that's kind of learning on their behalf.
+00:24:53 And you're framing it up in
+a really like interesting way
+00:24:55 and then you're actually able
+00:24:56 to help take people behind the scenes.
+00:24:58 Like they feel like an insider, right?
+00:25:01 "Oh, like I'm an insider.
+00:25:02 I get all of the kind of hot stuff."
+00:25:03 If you actually pay for
+your pay subscription,
+00:25:06 you're kinda like the insider now.
+00:25:07 And I know you actually have
+00:25:08 a huge community as well, as part of that.
+00:25:11 And so I think there's like
+something in that like that
+00:25:13 there's like, core things that
+really make that content much
+00:25:15 more powerful than the
+just the average post
+00:25:17 you're gonna actually read.
+00:25:19 - Even more, basically like I'm just doing
+00:25:20 a lot of work for people that
+would cost a lot of money.
+00:25:23 (all laugh)
+00:25:24 - Yeah, people like that.
+00:25:25 - I'm just creating a
+crap ton of value guys.
+00:25:26 It's not that hard.
+00:25:28 - Yeah, I'm just spending tens of hours,
+00:25:30 answering a question for
+you and it's like not that
+00:25:32 expensive to get the answer.
+00:25:34 - Well, building on that though,
+00:25:36 like that makes total
+sense for the newsletter.
+00:25:38 But it's very different when
+00:25:39 you're doing the podcast, right?
+00:25:41 Like, 'cause you're having
+this realtime interaction,
+00:25:43 you're trying to pull
+the right things out.
+00:25:45 You don't control what the
+other person's going to say.
+00:25:48 So like, you know, what
+does Lenny know today
+00:25:50 that he didn't know when
+he started the podcast
+00:25:52 about how to actually do those things
+00:25:54 really well, like get the
+best information from people?
+00:25:57 - So one I've just like upgraded
+00:25:59 the look of the podcast,
+00:26:00 like, I look back at my first
+episodes I was just like so
+00:26:02 frumpy and funny looking,
+00:26:04 (Kipp and Kieran laugh)
+00:26:05 like very basic look.
+00:26:06 So there's a look of it.
+00:26:07 I think mostly it's just working
+00:26:09 on the interview techniques
+00:26:10 and continuing to follow
+up on questions where
+00:26:13 someone has a really vague
+answer is a big part of it.
+00:26:16 Same with the newsletter.
+00:26:17 Like, I just tried to get
+to like real concrete stuff.
+00:26:20 Not just like,
+00:26:21 "Here's a general theory
+I have on something."
+00:26:22 - Keep diving.
+00:26:23 - Just keep diving, and then I can cut
+00:26:25 stuff that doesn't work.
+00:26:26 So that's a big part of it.
+00:26:28 Part of it is just vetting guests
+00:26:30 a little bit better.
+00:26:31 Like, you know, some guests come on
+00:26:32 and they don't actually
+know as much as you think.
+00:26:34 And so trying to get to
+that a little bit earlier.
+00:26:37 Mostly it's, and then also, I don't know,
+00:26:39 it's all the interview technique,
+is kind of what I find.
+00:26:41 Just like not having to like
+respond to every answer someone
+00:26:44 gives and just like
+onto the next question.
+00:26:45 Onto the next question.
+00:26:46 People don't want you to
+be like, "Awesome, great.
+00:26:49 That was so interesting."
+00:26:50 (all laugh)
+00:26:51 - No they don't.
+00:26:52 - Let's do something else.
+00:26:53 It's like fun, you know, it's a balance.
+00:26:54 So it's a lot of interview, and
+I try to watch my interviews
+00:26:57 and try to like see what's
+annoying and dumb most-
+00:26:59 - Yeah, we do the same thing.
+00:27:00 It's painful to watch yourself that much.
+00:27:02 - It's so painful, I hate it.
+00:27:03 (Kipp and Lenny talk over each other)
+00:27:04 It's the downside of starting a podcast.
+00:27:06 You have to like listen
+to yourself all the time.
+00:27:07 - Kieran, did you just say you loved it?
+00:27:09 - Oh, I can't get enough of myself
+00:27:10 (Kipp laughs)
+00:27:11 (Lenny and Kieran talk over each other)
+00:27:12 I watch myself on my
+big screen, the AI Wars.
+00:27:16 I'm like, "Oh look I'm on YouTube,
+00:27:17 with all these other people." (laughs)
+00:27:20 - I mean, to a Lenny's point,
+00:27:21 if I had a dope sweater
+like you're wearing.
+00:27:23 YouTubers hate your sweater.
+00:27:25 If you like, or hate-
+00:27:26 - [Kieran] It's not this one.
+00:27:27 You're getting confused.
+00:27:28 - The sweater, comment on
+YouTube right now. (laughs)
+00:27:30 - But hey, I would love to actually
+00:27:31 hear how you vet guests because
+00:27:33 that could be kind of like,
+00:27:34 you don't like bring them up
+00:27:36 for initial conversation and say-
+00:27:37 - I don't.
+00:27:38 - "No, no I'm not bringing you back
+00:27:39 (laughs) 'cause you suck."
+00:27:40 Like, you just vet them up
+front without them knowing?
+00:27:43 - I'm trying to rely more on referrals
+00:27:44 from other guests that
+I've had that are awesome.
+00:27:46 So that helps a lot.
+00:27:47 And then watching their other
+talks and videos helps a lot.
+00:27:50 Just like, what have they got to say?
+00:27:51 That kind of thing.
+00:27:52 But you know, you never know
+00:27:53 until you actually talk to someone.
+00:27:55 - Are there some interviews
+you just don't use?
+00:27:56 - Not yet, not yet.
+00:27:57 Everything's been good enough.
+00:27:59 - So you have a community,
+you have a podcast.
+00:28:01 Let's say you had infinite
+time and infinite resources,
+00:28:04 or you just had the motivation to do it.
+00:28:07 What is the other thing
+you would like to do?
+00:28:10 Like as a creator that you're not doing?
+00:28:12 Like what's the thing
+that you think would,
+00:28:13 when you apply that energy would
+make you feel the same sort
+00:28:16 of ways you do about
+newsletter or podcast?
+00:28:18 - This would make me feel in the same way,
+00:28:20 but I think I would do a book, is the-
+00:28:21 - I think you have to do a book man.
+00:28:24 - Yeah, but it's so painful. (laughs)
+00:28:25 It's so much work.
+00:28:27 - It's so much work.
+00:28:28 Especially on the topic you're
+gonna do it on, and how much
+00:28:30 information you already have put in it.
+00:28:32 But you gotta do it.
+00:28:33 We all want it.
+00:28:34 - [Lenny] One day.
+00:28:35 - You gotta give the
+people what they want.
+00:28:36 - (laughs) I guess.
+00:28:38 I think they'll all get smarter
+00:28:39 and it'll be better the longer I wait.
+00:28:41 That's how I tell myself.
+00:28:42 - (laughs) Can I say
+that about everything?
+00:28:45 (Lenny laughs)
+00:28:45 Is that a new procrastination hack
+00:28:47 that I can use for my own life?
+00:28:48 - Yes, take it.
+00:28:49 - But seriously what's the
+hold up in doing in a book?
+00:28:51 - Just the workload that it's gonna,
+00:28:53 my wife actually has
+published a couple books,
+00:28:54 and I see the process.
+00:28:55 It's so hard.
+00:28:57 It's just like, you know,
+00:28:58 it's like a year of intense work.
+00:28:59 You don't make much from it, you know,
+00:29:01 maybe 0.1% of people make some from it.
+00:29:03 It's just the workload.
+00:29:04 Like, life's good, you know,
+00:29:06 like I talked about the newsletter,
+00:29:07 (Kipp and Kieran laugh)
+00:29:08 like why would I want to bash my head
+00:29:10 against the wall for a year?
+00:29:11 But I think I'll probably
+do it at some point, I just,
+00:29:13 I don't think it's time yet.
+00:29:15 - Why can't you do a book that's
+00:29:16 just a collection of the newsletters?
+00:29:17 - That's what, I think-
+00:29:18 - All us dorks would love
+00:29:19 to just like have on the
+shelf behind us, you know?
+00:29:21 - Tim Ferriss did that, right.
+00:29:22 - I think though, that's
+the mistake people make.
+00:29:24 They think it's gonna be that
+easy if they have a bunch of
+00:29:26 content and they're just like,
+00:29:27 "Oh, let's throw it together."
+00:29:28 But it never is.
+00:29:28 If you wanna make it awesome,
+00:29:29 like I have a high bar and I'm very
+00:29:31 detail-oriented about this stuff,
+00:29:32 so I just wanna make it super awesome,
+00:29:34 and it would just suck up my life.
+00:29:35 - Yeah, okay, so I gotta ask you
+00:29:37 my favorite question for
+detail-oriented people.
+00:29:39 It's like, how. do you know when to stop?
+00:29:41 Like how do you know, like
+00:29:43 you're editing that newsletter
+and you were just like
+00:29:44 pounding your head against the wall.
+00:29:46 Like how do you know like,
+"Okay, we're good here,
+00:29:48 I'm gonna stop and move
+on to the next one."
+00:29:50 - I think very concretely,
+00:29:51 it's when I don't find
+anything else to tweak
+00:29:54 when I look at it.
+00:29:55 So I look at it, I'm like,
+"Okay, let's fix this, fix that,"
+00:29:57 and then come back to it later in the day.
+00:30:00 Look at it, okay,
+00:30:01 maybe there's the title, I
+can make it a little better.
+00:30:03 And when I find that there's
+just nothing I'm changing,
+00:30:05 that tells me it's ready to go.
+00:30:07 And you know, could always be better.
+00:30:09 But you know, I'm publishing once a week
+00:30:10 and people aren't paying me like
+00:30:11 100 thousand dollars,
+like, 150 bucks a year.
+00:30:15 Like it's not gonna be
+perfect, perfect forever.
+00:30:17 But it's mostly when I'm
+not changing something.
+00:30:19 That's the sign to me.
+00:30:20 - Follow up to that is like,
+00:30:22 you've worked really hard
+to build all this stuff
+00:30:24 and you were like,
+00:30:26 "Yeah this Operation Not Start a Business,
+00:30:27 and you kind of now
+ended up with a business-
+00:30:30 - Getting a real job.
+00:30:31 - You're making stuff, but
+00:30:32 what are the unintended positive
+consequences of all this?
+00:30:35 Like what are the really good things
+00:30:37 that have happened that you're like,
+00:30:38 "I didn't expect this but
+like my life is way better
+00:30:40 because of like doing this creating."
+00:30:44 - I also wanna share the downsides 'cause
+00:30:45 I think people don't think about that,
+00:30:46 but there's like so many
+upsides like angel investing,
+00:30:49 it's so much easier.
+00:30:50 - That's what I was
+hoping you'd talk about.
+00:30:52 - Yeah, like most founders would
+00:30:53 love to have me involved in helping.
+00:30:54 So that helps a lot.
+00:30:55 And so I get just like access to
+00:30:57 a lot of cool founders and companies.
+00:30:58 That's one thing.
+00:31:00 And the other is, you know,
+00:31:00 I just get things like, at
+least once a day if it's just
+00:31:02 someone saying really nice
+things about how much the stuff
+00:31:04 I've done has helped them.
+00:31:06 So that's always nice.
+00:31:07 And then just meeting,
+00:31:08 I think meeting a lot of really
+amazing people through the
+00:31:10 community, through the
+founders that I talk to.
+00:31:12 Like the network has gotten
+really big and interesting.
+00:31:14 On the downsides, I have
+no time off, you know,
+00:31:17 no PTO, no one's gonna
+pay me to take time off.
+00:31:20 No 401K matching, no health insurance.
+00:31:22 Like I just have to go
+Obamacare, no disability.
+00:31:24 You know, if I like get injured,
+00:31:25 I don't know what happens.
+00:31:27 Like you just, you know, stop.
+00:31:28 - Yeah, if you can't type,
+well that's concerning, right?
+00:31:31 You're like, "I don't know
+if I can go skiing guys.
+00:31:33 I need my arms."
+00:31:35 - So I worry about that a little bit.
+00:31:36 Hasn't been a problem yet.
+00:31:37 - Like one of the great things,
+00:31:38 but I always say like where
+everyone really wants to end up,
+00:31:41 even when people talk about like,
+00:31:42 I wanna semi-retire or retire,
+00:31:44 it's like I just don't wanna be answerable
+00:31:45 to someone else's schedule.
+00:31:46 Like I actually wanna dictate my own time
+00:31:48 and own my own calendar.
+00:31:49 And I think there's, obviously
+you still have to work,
+00:31:53 you know, a certain amount of hours a week
+00:31:54 to do the work that you do.
+00:31:56 Like you control your own time.
+00:31:57 And there's just something
+I think magical about like,
+00:31:59 being answerable to your own calendar
+00:32:01 and not being answerable
+to someone else's calendar.
+00:32:03 - 100%, that part is amazing.
+00:32:05 There's this book that you probably read,
+00:32:07 The Subtle Art of Not Giving a Fuck,
+00:32:08 and he talks about how like
+people think they want just
+00:32:11 freedom from everything,
+00:32:12 but it turns out, we
+still wanna solve problems
+00:32:14 and do interesting things.
+00:32:16 So I actually thought I'd, I was like,
+00:32:18 I was trying to try to
+mini-retire a little bit.
+00:32:20 I was like, I'll just
+do the simplest thing
+00:32:22 just to make enough money
+and that'll be great.
+00:32:23 But like, at this point I
+have full-time job hours,
+00:32:26 I work a lot, and it's hard to resist
+00:32:28 I think for folks like us.
+00:32:30 Like we just don't wanna
+sit around and just,
+00:32:32 you know, check Twitter
+all day and watch TV.
+00:32:34 (Kieran laughs)
+00:32:35 - Well we don't want the brain to fade.
+00:32:37 You know, we wanna go and
+00:32:38 do something that helps people, right?
+00:32:39 - You just wanna do
+interesting things and yeah.
+00:32:41 We'll end up finding work for ourselves.
+00:32:43 That's kinda what I've done.
+00:32:44 I just keep finding like the podcast,
+00:32:45 like I don't wanna do a
+podcast, I don't need more work.
+00:32:47 But it's hard to resist 'cause
+it's just like there's a big
+00:32:50 opportunity and it's interesting
+00:32:51 and people are keep asking you for it so.
+00:32:52 - Well and it's also collaborative.
+00:32:53 You get to meet a lot of really
+awesome people that maybe
+00:32:55 you don't talk to as much
+00:32:56 if you're just heads down writing, right?
+00:32:59 So it's probably a different kind
+00:32:59 of modality of working too, right?
+00:33:01 - There is another downside
+of the creator life is like,
+00:33:03 it's kind of, you're alone.
+00:33:04 Like at least in the newsletter life,
+00:33:06 and it's kind of fun to work on a team.
+00:33:08 The other downside I forgot
+to mention is there's like,
+00:33:11 people think they're gonna
+create this like viral TikTok
+00:33:13 video or some amazing post or
+some amazing podcast, and it's
+00:33:17 just gonna go blow up and
+the life will be so great.
+00:33:18 But you realize that's
+just like one thing,
+00:33:20 one time, and then it
+fades and you're done.
+00:33:23 No one cares about it again,
+like a few days later.
+00:33:25 And you realize it's this never
+ending treadmill where you
+00:33:28 consistently have to keep
+putting stuff out forever.
+00:33:31 Like, I don't know how I
+even get off this treadmill.
+00:33:32 (all laugh)
+00:33:33 - I don't either.
+00:33:36 - Like, a podcast you can stop,
+00:33:36 'cause it's app based I'm guessing,
+00:33:39 like the newsletter subscription
+00:33:40 and people are paying for the next year,
+00:33:42 every day there's an annual
+plan being bought every day.
+00:33:44 So at least for a year
+I have to keep it going.
+00:33:46 But like, stopping it sounds really scary
+00:33:48 'cause then I lose the income.
+00:33:50 So I don't really know the exit path
+00:33:51 for something like this.
+00:33:52 I don't think about it too much.
+00:33:53 (all laugh)
+00:33:54 But that is one downside is
+like, you think it's like,
+00:33:56 "Cool, I'm gonna get a viral video,
+00:33:58 it's gonna be so great,"
+00:34:00 but you have to keep
+doing that for a long time
+00:34:01 and it gets less fun.
+00:34:02 So I will say a lesson there is,
+00:34:04 make sure if you go down this path,
+00:34:06 work on something that
+really is interesting to you,
+00:34:08 that you're curious about,
+00:34:10 that you really care about,
+versus creating this job for
+00:34:12 yourself that sucks.
+00:34:13 Where you're like writing about,
+00:34:14 I don't know, Bitcoin all
+day and you're just like,
+00:34:16 "I don't care about this stuff."
+00:34:17 (all laugh)
+00:34:18 - Trying to scam people.
+00:34:19 - Those are terrible work
+examples, Bitcoin, it's great.
+00:34:21 - It is interesting, right?
+00:34:23 Like we talked about this in
+an episode before about the
+00:34:25 creator, for very few creators
+the exit will be some sort
+00:34:29 of sale, because they are the brand.
+00:34:30 Like Mr. Beast, you know
+apparently got offered
+00:34:32 a billion dollars for his YouTube channel,
+00:34:35 and I suspect you can maybe say,
+00:34:36 "Oh, maybe he can like get himself
+00:34:37 out of being on the brand."
+00:34:39 Like, Mr. Beast is a brand
+but it's not his face.
+00:34:41 Although it's still very hard to imagine.
+00:34:42 But that's one thing for creators,
+00:34:44 is like they are the brand.
+00:34:46 And you have to like,
+00:34:47 I think you have to be explicit over time.
+00:34:49 If you want to make that into
+a brand that's not you front
+00:34:52 and center, or like they'll
+always be the brand,
+00:34:53 but I'm not sure then what my exit is.
+00:34:55 - Maybe don't call it Lenny's Newsletter
+00:34:56 if you wanna do that.
+00:34:57 (all laugh)
+00:34:58 - Or you're gonna have to
+just sell it to another Lenny.
+00:35:01 There's one Lenny out there.
+00:35:02 They love this stuff.
+00:35:03 (Lenny and Kieran talk over each other)
+00:35:05 - Oh, the Lenny's newsletter.
+00:35:06 I mean it's you also underscore
+00:35:08 the importance that name doesn't matter,
+00:35:10 the content matters.
+00:35:11 - [Lenny] That's right.
+00:35:12 - Which, everybody spends like six months
+00:35:13 coming up for a name.
+00:35:14 Finding the perfect name for something,
+00:35:16 or the perfect domain name,
+00:35:18 and that does not matter.
+00:35:19 What you hit matters is like,
+00:35:21 hey, no, find something you like,
+00:35:22 have a process, and grind it out.
+00:35:24 - Grind it out.
+00:35:25 - Like, yeah the name came from,
+00:35:26 I was just signing up for a
+SubStack, and their default
+00:35:28 recommendation when you're
+signing up as like your first
+00:35:30 name newsletter, 'cause I
+had no plan with this thing.
+00:35:33 So I'm like, oh, Lenny's newsletter.
+00:35:34 (all laugh)
+00:35:35 - That's hilarious.
+00:35:36 That's a great story.
+00:35:37 As as we're closing things out,
+00:35:38 one last question from me,
+00:35:40 and then Kieran if you
+have anything jump in.
+00:35:41 It's like if somebody is
+listening to this and they've been
+00:35:44 on the sidelines and
+they're like, "You know,
+00:35:45 I've been thinking about
+a newsletter, podcast,
+00:35:47 like kind of, that's what
+gives me energy not my job."
+00:35:50 Like what would you tell them
+to try to persuade them that
+00:35:53 it's a worthy thing for them
+to do, or to tell them, "No,
+00:35:57 you don't wanna do that
+because it's just gonna be a
+00:35:59 complete miserable grind."
+00:36:01 - This is gonna sound obvious,
+00:36:02 but honestly it's just, do it.
+00:36:03 Stop thinking about it.
+00:36:05 Just like write a thing,
+and see what you think.
+00:36:07 See if you enjoy it,
+see if people value it.
+00:36:08 That's the more important part.
+00:36:09 And like I will say writing
+is like, I don't know,
+00:36:12 Hemingway never said this probably,
+00:36:14 but people attribute it to
+him, that "Writing is easy.
+00:36:16 You just sit at the keyboard and bleed,"
+00:36:18 (Kipp and Kieran laugh)
+00:36:19 and that's how it feels a lot of times.
+00:36:20 And so it's not gonna be easy easy,
+00:36:23 but just like, that's all you have to do.
+00:36:25 Just like SubStack, you sign up,
+00:36:26 it's free, you write a thing,
+00:36:28 you could put it out there.
+00:36:29 Nobody's gonna remember if it sucks.
+00:36:31 All you need to do is
+just like write the thing,
+00:36:33 write that something that you
+want to get outta your head.
+00:36:35 Write something you're trying
+to remember or crystallize and
+00:36:38 just see how it feels.
+00:36:39 Is this cool?
+00:36:40 Do people care about what you're writing?
+00:36:41 And part of it is just realizing,
+00:36:43 do I enjoy this and do
+I wanna keep doing this?
+00:36:45 And you only know if you start doing it.
+00:36:47 So yeah, it's like such cliche advice,
+00:36:49 but I think it's just like,
+it's so easy to write.
+00:36:51 You're not gonna record
+a video, that's harder.
+00:36:53 Just like write a thing, see how it goes.
+00:36:55 - The thing I really took away as well,
+00:36:56 is if you look at Japan, 10 year olds,
+00:36:58 there's a higher percentage
+of 10 year olds in Japan that
+00:37:01 wanna be a YouTuber than anything else.
+00:37:03 Like, everyone wants the creator life.
+00:37:05 But really your kind of points are,
+00:37:07 it's really the
+perseverance and the grind.
+00:37:09 Like everything is a grind,
+00:37:10 it's just a grind that you choose.
+00:37:11 And the other, I think lesson that's
+00:37:13 really important for people to take
+00:37:14 away is, what makes great writers great
+00:37:16 is not what they put on the page,
+00:37:18 it's what they take off the page, right?
+00:37:20 Like that editing is
+like so, so important.
+00:37:21 And I think that's a really
+great takeaway for everyone.
+00:37:23 - And I think to add to
+that, like introductions,
+00:37:25 everyone always such long introductions,
+00:37:27 like just skip the intro
+and just get right to it.
+00:37:30 That's something that I've learned also.
+00:37:31 - I Love it.
+00:37:32 This was a great conversation Lenny,
+00:37:33 I know you are busy and you're taking time
+00:37:35 away from your own creating
+00:37:37 to come and and and help us create.
+00:37:39 So thank you first and foremost.
+00:37:40 - [Lenny] Absolutely.
+00:37:41 - And everybody should go subscribe
+00:37:42 to Lenny's pod and Lenny's Newsletter.
+00:37:44 And the last thing I wanted to ask you
+00:37:46 before we jumped off is,
+00:37:47 like, who else's writing do you love?
+00:37:49 Like what are the other
+newsletters you're reading?
+00:37:51 Like, what else would you
+have people take a look at?
+00:37:53 - I always feel worried
+not mentioning everyone
+00:37:55 that's awesome.
+00:37:56 But anyway-
+00:37:58 - Well, I'll limit you to three.
+00:37:59 You just have to name three,
+00:38:01 and if they don't make it, it's okay.
+00:38:02 Whatever you think.
+00:38:03 - Noah Smith, he's got a
+newsletter called No Opinions,
+00:38:06 which I just learned so
+much from reading his stuff.
+00:38:09 He's on SubStack,
+00:38:10 he's actually like right
+below me in the rankings.
+00:38:12 So it's like counterproductive
+to recommend him,
+00:38:14 (Kipp and Kieran laugh)
+00:38:15 but he's that good.
+00:38:16 And then Emily Oster,
+00:38:18 like family, kid stuff is always great.
+00:38:20 I don't know if y'all know
+her but she writes incredible
+00:38:22 stuff on kids stuff.
+00:38:24 So that one is awesome.
+00:38:25 And she is on SubStack also.
+00:38:27 And then Tyler Cohen is the other one
+00:38:29 that comes to mind immediately.
+00:38:31 He's got this podcast called
+Conversation with Tyler.
+00:38:34 He's got a blog called Marginal Revolution
+00:38:36 I think it's called.
+00:38:37 And I always just learn so much
+every time I hear him talk.
+00:38:40 And he's an amazing interviewer too.
+00:38:42 - Love that.
+00:38:43 I'm gonna go check out Tyler 'cause
+00:38:44 I'm always looking to
+be a better interviewer.
+00:38:45 Speaking of that though,
+Lenny, thank you so much.
+00:38:47 We really deeply appreciate you
+00:38:49 coming on Marketing
+Against the Grain today.
+00:38:51 Thank you so much for your time
+00:38:52 and we'll talk to you again real soon.
+00:38:53 (funky music)
+00:38:55 - This data is wrong every freaking time.
+00:38:57 - Have you heard of HubSpot?
+00:38:58 HubSpot is a CRM platform where
+00:39:01 everything is fully integrated.
+00:39:02 - Whoa, I can see the client's
+whole history, calls, support
+00:39:05 tickets, emails, and here's
+a task from three days ago
+00:39:09 I totally missed.
+00:39:11 - [Announcer] HubSpot, grow better.
