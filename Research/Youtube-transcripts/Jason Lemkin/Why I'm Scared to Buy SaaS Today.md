@@ -967,102 +967,201 @@
 00:16:30 SDR teams all across planet Earth and do
 
 00:16:33 what you want but I'm not getting on the
+
 00:16:34 phone this is an age of AI this is an
+
 00:16:37 age of this is the internet I I
+
 00:16:39 shouldn't have to get on a call to get a
+
 00:16:42 couple of questions answered right I
+
 00:16:43 shouldn't I really shouldn't unless I
+
 00:16:45 want to some folks love to get on a call
+
 00:16:46 some folks love to do the zoom the more
+
 00:16:48 Enterprise you are the more folks want
+
 00:16:50 to talk the more complicated the
+
 00:16:52 business process change is but if I need
+
 00:16:54 a couple questions answered please just
+
 00:16:55 answer them again I don't want you to
+
 00:16:57 burn my time
+
 00:16:59 I just don't have a lot right now and
+
 00:17:01 the last one this is down on my list but
+
 00:17:04 it's still one that that makes me not
+
 00:17:07 want to buy because it's become a bigger
+
 00:17:09 and bigger issue I'm scared you'll make
+
 00:17:11 exporting my data hard now this has been
+
 00:17:13 an issue since the the dawn of SAS at a
+
 00:17:15 bare minimum going back to the early
+
 00:17:17 days of Salesforce the early vendors I
+
 00:17:19 had at a minimum even if you in theory
+
 00:17:21 could export your data it was very hard
+
 00:17:23 to export the data in a structured
+
 00:17:24 format right even if you could export
+
 00:17:26 your Salesforce or any data and OB sign
+
 00:17:29 neign whatever even if you can get it
+
 00:17:30 all out as PDFs how are you going to get
+
 00:17:32 the structure around it in the
+
 00:17:34 Enterprise data lakes and other services
+
 00:17:37 like Snowflake and data breaks there's a
+
 00:17:39 reason there's many reasons Enterprise
+
 00:17:40 wants them but they want to own their
+
 00:17:41 data and be able to do their own things
+
 00:17:43 with their data not have these exporting
+
 00:17:44 headaches small businesses don't quite
+
 00:17:46 have those capabilities and saster is a
+
 00:17:48 small team and so I'm just worried when
+
 00:17:51 I leave you're going to hold my data
+
 00:17:52 hostage and it's going to be a big
+
 00:17:55 headache no matter what your terms of
+
 00:17:57 use say no matter what it says it's it's
+
 00:17:59 my data even if it's your data too I'm
+
 00:18:01 not claiming it's not somewhat your data
+
 00:18:03 but if I paid you for years if I paid
+
 00:18:05 you properly if I've paid you on time if
+
 00:18:06 I paid you thousands and thousands of
+
 00:18:08 dollars and you're going to make it hard
+
 00:18:10 for me to export my data just so you can
+
 00:18:12 trap
+
 00:18:13 me I get it but I just don't think I
+
 00:18:16 want to buy that app unless I'm forced
+
 00:18:17 to so listen here's my final point this
+
 00:18:21 is my final point of advice and
+
 00:18:23 seriously I am for the first time in
+
 00:18:26 many years in SAS I am scared to buy new
+
 00:18:28 apps now unless it's clear I can leave
+
 00:18:31 so I have just one one bit of meta
+
 00:18:32 advice Beyond thinking through this
+
 00:18:34 checklist thinking through it's you I
+
 00:18:35 bet 99% of folks you can hear some of
+
 00:18:37 you in these nine points but quietly go
+
 00:18:41 to a room slow it down and go buy your
+
 00:18:44 app with a clear mind like a prospect
+
 00:18:46 slow it down be honest pretend know a
+
 00:18:49 little bit about an app about your own
+
 00:18:50 app a lot know a little bit enough to be
+
 00:18:51 smart but slow it down try it from
+
 00:18:54 scratch what is the funnel do you really
+
 00:18:56 feel like you can get enough information
+
 00:18:58 do you feel feel like you're comfortable
+
 00:18:59 buying how hard as it is to talk to
+
 00:19:02 sales what's that experience with the
+
 00:19:03 strr and the sales team ask yourself if
+
 00:19:06 there's anything anything that would
+
 00:19:08 give you pause from buying and I'm going
+
 00:19:11 to argue until you're at Mass scale
+
 00:19:12 until you're at the Salesforce scale
+
 00:19:16 don't add any friction to the sales
+
 00:19:18 process there is an argument when you're
+
 00:19:19 at hundreds of millions of Revenue to
+
 00:19:21 add friction there is an argument that
+
 00:19:23 friction itself is a qualifier
+
 00:19:24 especially for your sales team that you
+
 00:19:26 don't want the customers that are the
+
 00:19:28 wrong customer customers the customers
+
 00:19:29 that are going to bounce the customers
+
 00:19:30 that are the wrong fit and I guess I get
+
 00:19:33 it but unless you're at hundreds of
+
 00:19:35 millions of Revenue you want to close
+
 00:19:37 every customer you can for for the most
+
 00:19:38 part so slow it down and buy your own
+
 00:19:40 product and take slow careful notes on
+
 00:19:43 the friction I bet there's a lot more
+
 00:19:45 than you thought there was and remember
+
 00:19:47 SAS is supposed to be a service folks we
+
 00:19:49 forgot SAS software as a service make
+
 00:19:52 sure your product truly is a service
