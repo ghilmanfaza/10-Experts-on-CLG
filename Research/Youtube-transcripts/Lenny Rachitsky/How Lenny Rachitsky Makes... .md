@@ -1231,1003 +1231,1743 @@ it was not looking good.
 
 00:17:17 They had to like, take this
 massive $2 billion loan and it
+
 00:17:20 was just like, travel was
 gonna not happen again maybe.
+
 00:17:23 So I got really worried.
+
 00:17:25 And so that's when I actually
 launched the paid plan.
+
 00:17:27 I was like, "Okay, Project
 Avoid Getting a Real Job,
+
 00:17:30 Let's do this for real.
+
 00:17:31 Let's see if I can make money doing this."
+
 00:17:32 And so I launched the
 paid plan about eight,
+
 00:17:34 nine months after I started writing.
+
 00:17:36 And it did like okay initially,
+
 00:17:38 but basically just doing
 that for another year,
+
 00:17:41 two years every week helped
 it continue to grow and kept
+
 00:17:44 growing, growing across 300K.
+
 00:17:45 So then the actual next big
 inflection came actually fairly
+
 00:17:49 recently where SubStack launched
+
 00:17:50 this feature where you can
 refer other newsletters,
+
 00:17:53 you can recommend other newsletters,
+
 00:17:55 which seems like a really
 simple, no big deal feature.
+
 00:17:58 But it turns out a lot of newsletters
+
 00:18:00 are recommending my newsletter.
+
 00:18:01 So when you sign up for my newsletter,
+
 00:18:02 you get recommended 10 newsletters
+
 00:18:05 that I love, and I picked them.
+
 00:18:06 And so there's this like really cool
+
 00:18:08 network effect that's happening now.
+
 00:18:10 So about 1000 other newsletters
 recommend my newsletter.
+
 00:18:13 And so as soon as they
 launch that feature,
+
 00:18:15 I just have this like
 hockey stick of growth
+
 00:18:17 that's happening, and
 it's still happening.
+
 00:18:18 And I think I'm in the
 onboarding flow when you sign up
+
 00:18:20 because I'm the number one
 business newsletter you kind of
+
 00:18:22 get recommended my newsletter.
+
 00:18:24 So, there's never been an easier time
+
 00:18:25 to grow large newsletter,
 because of that one feature.
+
 00:18:27 If you write awesome stuff
 and people recommend you,
+
 00:18:30 you can grow really quickly now.
+
 00:18:31 - I remember back in the day,
+
 00:18:33 the problem to solve for their
 audience was distribution
+
 00:18:37 because newsletters
 somewhat like podcasts,
+
 00:18:38 or most of the newsletters,
+
 00:18:40 and Kipp and I talked to all
 of the big newsletters when we
+
 00:18:43 went through the kind of research phase
+
 00:18:44 of trying to find the hustle.
+
 00:18:46 Like they're predominantly
 all paid advertising in some
+
 00:18:49 respects, because there's no
+
 00:18:50 like one built in core
 mechanism to like grow those.
+
 00:18:53 And so they really did nail
 that it sounds like, SubStack.
+
 00:18:55 Do those thousand newsletters
 get any type of affiliate
+
 00:18:58 commission for recommended you, like-
+
 00:19:00 - Nope.
+
 00:19:01 - They just do it organically?
+
 00:19:02 - Yeah.
+
 00:19:02 It's just like, what do
 you think is awesome?
+
 00:19:04 And yeah, it's just like,
+
 00:19:05 what do you think is
 great for people to read,
+
 00:19:07 and it feels nice to
 recommend great stuff.
+
 00:19:09 That's it, yeah.
+
 00:19:09 You know, I tried referrals
 and it doesn't work.
+
 00:19:12 Like, I think for some
 newsletter it would work,
+
 00:19:14 obviously Morning Brew
 and stuff like that.
+
 00:19:15 But I think it has to be a certain
+
 00:19:17 personality of a newsletter
 for it to be like,
+
 00:19:19 "Send this to all your friends,
 get a hat, get stickers."
+
 00:19:21 You know, it's a different-
+
 00:19:22 - Well it needs to be more, you know,
+
 00:19:24 higher altitude versus
 the depth that you go to
+
 00:19:27 in your newsletter, right?
+
 00:19:28 - Right.
+
 00:19:29 - Because the thing I
 was gonna ask actually,
+
 00:19:30 and you kind of maybe
 answered it with SubStack,
+
 00:19:32 and I'm interested what both of you think
+
 00:19:34 is, if you were going to go down that
+
 00:19:36 original path and you started a company,
+
 00:19:37 the thing you were gonna have
 to really think about and most
+
 00:19:40 founders do, is like defensibility.
+
 00:19:41 Like how is this like thing defensible?
+
 00:19:43 How about not to be commoditized?
+
 00:19:45 And what's interesting content is
+
 00:19:46 the feedback loops are really quick.
+
 00:19:48 Like Kipp and I talk about
 this, where you see someone has
+
 00:19:50 figured out like threads on
 Twitter and then like everyone
+
 00:19:53 does threads on Twitter, right?
+
 00:19:55 Or someone figures out like
 shitposting is a thing and then
+
 00:19:57 everyone is shitposting, right?
+
 00:19:58 And so everyone can replicate
 things much faster 'cause the
+
 00:20:00 barrier to entry is much lower.
+
 00:20:02 And I was gonna ask you like as
+
 00:20:03 a founder of a content brand,
+
 00:20:05 like how do you think about defensibility,
+
 00:20:07 but maybe your defensibility as, well,
+
 00:20:09 I've got inserted into
 the SubStack, you know,
+
 00:20:11 framework, and so it's gonna
 be really hard for anyone
+
 00:20:13 to replicate that.
+
 00:20:15 - On the one hand, I don't
 really think about that.
+
 00:20:17 I think if you just keep providing
 valuable stuff to people,
+
 00:20:20 they're going to keep wanting it.
+
 00:20:22 So I think the question is,
+
 00:20:23 will someone come around
 that does much better
+
 00:20:24 than I at the same thing.
+
 00:20:26 Like I'm not that smart.
+
 00:20:27 (Kipp and Kieran laugh)
+
 00:20:28 People have more time,
 they have more experience.
+
 00:20:29 It could definitely happen, 100%,
+
 00:20:31 but I will say I don't like,
+
 00:20:34 I don't know why it
 hasn't happened, honestly.
+
 00:20:35 I have found a lot of people are modeling
+
 00:20:37 their newsletters now after my newsletter.
+
 00:20:39 Like I see welcome emails
 just like completely
+
 00:20:42 copied my welcome emails.
+
 00:20:44 (Kipp and Kieran laugh)
+
 00:20:45 There's a lot of like, advice
 column style newsletters.
+
 00:20:48 Exactly like I, like
 the intros are the same.
+
 00:20:51 So there's a lot of, like you know,
+
 00:20:53 it's the sincerest form of flattery,
+
 00:20:55 people modeling the approach.
+
 00:20:57 No one's come like right at
 exactly what I'm doing yet.
+
 00:20:59 I wouldn't be surprised if it happened.
+
 00:21:01 Obviously I have a headstart,
+
 00:21:02 I don't think about it too much,
+
 00:21:03 but it could definitely happen.
+
 00:21:05 I don't think there's
 much of a moat, you know.
+
 00:21:06 - Let's talk about that though
 because I think your moat is,
+
 00:21:09 you know, the grind that
 you've done obviously,
+
 00:21:11 but then it's also like
 that quality of content,
+
 00:21:13 like that taste and knowledge which
+
 00:21:15 you have on the core subject area.
+
 00:21:17 And you've talked about
 a lot on the show so far,
+
 00:21:20 but I guess I'd love to, you know,
+
 00:21:22 take a trip inside your head
 like what are the questions you
+
 00:21:24 ask yourself to know if something
+
 00:21:27 is meeting your bar, that it's like,
+
 00:21:30 it's really great and like
 this is gonna be something that
+
 00:21:31 is valuable in the world, and
 gonna be more valuable than
+
 00:21:34 anybody else could do this week.
+
 00:21:36 And subsequently like,
 "I feel great about it."
+
 00:21:38 - Like, I wish I had like a formula of
+
 00:21:40 like, "Here's what I look for."
+
 00:21:41 A lot of it comes down
 to, I just look at it
+
 00:21:43 again and again and again.
+
 00:21:45 Like, most of my writing is just editing.
+
 00:21:46 I start with just like a bunch
 of content and writing and
+
 00:21:49 bullet points, and then
 I form it into something,
+
 00:21:51 and then I just look at it
+
 00:21:53 like a hundred times
 as I keep reviewing and
+
 00:21:55 editing, I email it to myself,
+
 00:21:57 I look at it on my phone, and
 I basically get to a point
+
 00:22:00 where I just feel like, this
 is strong enough and there's
+
 00:22:03 nothing I can cut and
 there's nothing that's
+
 00:22:05 just like consistently confusing me.
+
 00:22:07 And that's kind of the core of it.
+
 00:22:09 I just look at it a thousand
 times and keep looking and
+
 00:22:11 looking and looking, and what can I cut?
+
 00:22:12 There's this really influential
 book on my writing, book
+
 00:22:15 that's been really
 influential in my writing,
+
 00:22:16 called On Writing Well.
+
 00:22:17 - Oh yeah, Darmesh loves that book too.
+
 00:22:19 - Basically it's just, cut everything.
+
 00:22:20 Is the conclusion just
 cut, cut, cut, cut, cut.
+
 00:22:22 (Kipp and Kieran laugh)
+
 00:22:23 And it's like a hundred chapters on
+
 00:22:24 all the things you should cut.
+
 00:22:25 So that actually had a big impact on me
+
 00:22:26 and I just kind of look for that,
+
 00:22:28 like, what is not necessary
 and then how do I just tighten
+
 00:22:30 and simplify and bullet point
 it and charts and table it.
+
 00:22:34 So that's the core of it.
+
 00:22:36 Like, you know, I try to find
+
 00:22:37 like ways to engage
 people in the beginning,
+
 00:22:39 like make it a surprise
 or make it interesting
+
 00:22:41 or story at the beginning.
+
 00:22:42 That's what I'm trying
 to work on a little bit,
+
 00:22:44 is like actual writing writing,
+
 00:22:45 not just, here's content information,
+
 00:22:46 but mostly it's just
 looking at a thousand times,
+
 00:22:49 and that comes back to the time.
+
 00:22:50 Like I just have the time to do that
+
 00:22:51 and I think that's what makes it better.
+
 00:22:53 - Yeah, so really your
 bar of quality is like,
+
 00:22:54 "Oh, I have a feedback loop of topics that
+
 00:22:57 people want because of the
 format I'm doing this thing in,"
+
 00:23:01 I'm in, have a research process
+
 00:23:02 that I go and validate that topic
+
 00:23:06 through through my own first-party
+
 00:23:07 research talking to people.
+
 00:23:08 And then you're like, I
 try to be a ruthless editor
+
 00:23:10 and break that down and
 make it the best, clearest,
+
 00:23:14 most simple distillation of that solution.
+
 00:23:17 Like I remember having a
 college journalism professor,
+
 00:23:19 he was like, "Go through
 and underline every just,
+
 00:23:21 and every very, and then
 cross them all out." (laughs)
+
 00:23:24 You know, like, get rid
 of like all these things
+
 00:23:26 that don't do anything.
+
 00:23:28 And you're saying like that's
+
 00:23:29 a really important part of just
+
 00:23:30 getting the idea as tight as possible.
+
 00:23:32 - Yeah, so let's look at the example
+
 00:23:34 of that growth inflections
 post, which was super recent.
+
 00:23:36 So the question there was,
+
 00:23:38 what causes an inflection in growth?
+
 00:23:40 And what I do with those is,
 I think about what are the
+
 00:23:42 companies I would love to get insights
+
 00:23:43 from and stories of like
 what helped them grow?
+
 00:23:46 So the way I start there
 is just make a list.
+
 00:23:48 Here's the companies I would
 love to capture stories from,
+
 00:23:51 and then I just go email people
+
 00:23:52 that I know at these companies.
+
 00:23:54 And what's cool, another
 flywheel that kicks in
+
 00:23:56 with this is the more of this
+
 00:23:58 I do, the more connections I've built,
+
 00:23:59 the more companies I'm close with.
+
 00:24:01 So I just kind of email these
 people, and I try not to bug
+
 00:24:03 'em too much, but often people
+
 00:24:05 are excited to, you know, contribute.
+
 00:24:07 So I just sent an email,
+
 00:24:09 "Here's my question, what can you share?"
+
 00:24:11 And then I just capture all those
+
 00:24:12 and see what comes out of it.
+
 00:24:14 That's roughly the approach.
+
 00:24:15 - I think that is like,
+
 00:24:16 understated in how powerful it is.
+
 00:24:18 Like there's a, you and I
 talked about this, right?
+
 00:24:21 I brought it up in the last podcast Kipp,
+
 00:24:22 there's a Twitter handle where
 there's a sales community and
+
 00:24:25 they tweet like real stats
 from that sales community.
+
 00:24:29 And that sales community,
+
 00:24:30 it's anonymous, so I don't actually know,
+
 00:24:31 'cause they do tweet things that
+
 00:24:33 you can't really share
 as a public company.
+
 00:24:34 (all laugh)
+
 00:24:35 But whatever, but whatever.
+
 00:24:37 It's really like, but it's anonymized
+
 00:24:39 and it's aggregated, right?
+
 00:24:40 But being able to get like, you know,
+
 00:24:42 the look behind the scenes,
+
 00:24:43 there's kind of two ways I
 think about your content.
+
 00:24:45 First of all, like you
 described it, like I'm learning,
+
 00:24:47 like when you're putting a case together,
+
 00:24:50 like you're the curious learner
+
 00:24:51 that's kind of learning on their behalf.
+
 00:24:53 And you're framing it up in
 a really like interesting way
+
 00:24:55 and then you're actually able
+
 00:24:56 to help take people behind the scenes.
+
 00:24:58 Like they feel like an insider, right?
+
 00:25:01 "Oh, like I'm an insider.
+
 00:25:02 I get all of the kind of hot stuff."
+
 00:25:03 If you actually pay for
 your pay subscription,
+
 00:25:06 you're kinda like the insider now.
+
 00:25:07 And I know you actually have
+
 00:25:08 a huge community as well, as part of that.
+
 00:25:11 And so I think there's like
 something in that like that
+
 00:25:13 there's like, core things that
 really make that content much
+
 00:25:15 more powerful than the
 just the average post
+
 00:25:17 you're gonna actually read.
+
 00:25:19 - Even more, basically like I'm just doing
+
 00:25:20 a lot of work for people that
 would cost a lot of money.
+
 00:25:23 (all laugh)
+
 00:25:24 - Yeah, people like that.
+
 00:25:25 - I'm just creating a
 crap ton of value guys.
+
 00:25:26 It's not that hard.
+
 00:25:28 - Yeah, I'm just spending tens of hours,
+
 00:25:30 answering a question for
 you and it's like not that
+
 00:25:32 expensive to get the answer.
+
 00:25:34 - Well, building on that though,
+
 00:25:36 like that makes total
 sense for the newsletter.
+
 00:25:38 But it's very different when
+
 00:25:39 you're doing the podcast, right?
+
 00:25:41 Like, 'cause you're having
 this realtime interaction,
+
 00:25:43 you're trying to pull
 the right things out.
+
 00:25:45 You don't control what the
 other person's going to say.
+
 00:25:48 So like, you know, what
 does Lenny know today
+
 00:25:50 that he didn't know when
 he started the podcast
+
 00:25:52 about how to actually do those things
+
 00:25:54 really well, like get the
 best information from people?
+
 00:25:57 - So one I've just like upgraded
+
 00:25:59 the look of the podcast,
+
 00:26:00 like, I look back at my first
 episodes I was just like so
+
 00:26:02 frumpy and funny looking,
+
 00:26:04 (Kipp and Kieran laugh)
+
 00:26:05 like very basic look.
+
 00:26:06 So there's a look of it.
+
 00:26:07 I think mostly it's just working
+
 00:26:09 on the interview techniques
+
 00:26:10 and continuing to follow
 up on questions where
+
 00:26:13 someone has a really vague
 answer is a big part of it.
+
 00:26:16 Same with the newsletter.
+
 00:26:17 Like, I just tried to get
 to like real concrete stuff.
+
 00:26:20 Not just like,
+
 00:26:21 "Here's a general theory
 I have on something."
+
 00:26:22 - Keep diving.
+
 00:26:23 - Just keep diving, and then I can cut
+
 00:26:25 stuff that doesn't work.
+
 00:26:26 So that's a big part of it.
+
 00:26:28 Part of it is just vetting guests
+
 00:26:30 a little bit better.
+
 00:26:31 Like, you know, some guests come on
+
 00:26:32 and they don't actually
 know as much as you think.
+
 00:26:34 And so trying to get to
 that a little bit earlier.
+
 00:26:37 Mostly it's, and then also, I don't know,
+
 00:26:39 it's all the interview technique,
 is kind of what I find.
+
 00:26:41 Just like not having to like
 respond to every answer someone
+
 00:26:44 gives and just like
 onto the next question.
+
 00:26:45 Onto the next question.
+
 00:26:46 People don't want you to
 be like, "Awesome, great.
+
 00:26:49 That was so interesting."
+
 00:26:50 (all laugh)
+
 00:26:51 - No they don't.
+
 00:26:52 - Let's do something else.
+
 00:26:53 It's like fun, you know, it's a balance.
+
 00:26:54 So it's a lot of interview, and
 I try to watch my interviews
+
 00:26:57 and try to like see what's
 annoying and dumb most-
+
 00:26:59 - Yeah, we do the same thing.
+
 00:27:00 It's painful to watch yourself that much.
+
 00:27:02 - It's so painful, I hate it.
+
 00:27:03 (Kipp and Lenny talk over each other)
+
 00:27:04 It's the downside of starting a podcast.
+
 00:27:06 You have to like listen
 to yourself all the time.
+
 00:27:07 - Kieran, did you just say you loved it?
+
 00:27:09 - Oh, I can't get enough of myself
+
 00:27:10 (Kipp laughs)
+
 00:27:11 (Lenny and Kieran talk over each other)
+
 00:27:12 I watch myself on my
 big screen, the AI Wars.
+
 00:27:16 I'm like, "Oh look I'm on YouTube,
+
 00:27:17 with all these other people." (laughs)
+
 00:27:20 - I mean, to a Lenny's point,
+
 00:27:21 if I had a dope sweater
 like you're wearing.
+
 00:27:23 YouTubers hate your sweater.
+
 00:27:25 If you like, or hate-
+
 00:27:26 - [Kieran] It's not this one.
+
 00:27:27 You're getting confused.
+
 00:27:28 - The sweater, comment on
 YouTube right now. (laughs)
+
 00:27:30 - But hey, I would love to actually
+
 00:27:31 hear how you vet guests because
+
 00:27:33 that could be kind of like,
+
 00:27:34 you don't like bring them up
+
 00:27:36 for initial conversation and say-
+
 00:27:37 - I don't.
+
 00:27:38 - "No, no I'm not bringing you back
+
 00:27:39 (laughs) 'cause you suck."
+
 00:27:40 Like, you just vet them up
 front without them knowing?
+
 00:27:43 - I'm trying to rely more on referrals
+
 00:27:44 from other guests that
 I've had that are awesome.
+
 00:27:46 So that helps a lot.
+
 00:27:47 And then watching their other
 talks and videos helps a lot.
+
 00:27:50 Just like, what have they got to say?
+
 00:27:51 That kind of thing.
+
 00:27:52 But you know, you never know
+
 00:27:53 until you actually talk to someone.
+
 00:27:55 - Are there some interviews
 you just don't use?
+
 00:27:56 - Not yet, not yet.
+
 00:27:57 Everything's been good enough.
+
 00:27:59 - So you have a community,
 you have a podcast.
+
 00:28:01 Let's say you had infinite
 time and infinite resources,
+
 00:28:04 or you just had the motivation to do it.
+
 00:28:07 What is the other thing
 you would like to do?
+
 00:28:10 Like as a creator that you're not doing?
+
 00:28:12 Like what's the thing
 that you think would,
+
 00:28:13 when you apply that energy would
 make you feel the same sort
+
 00:28:16 of ways you do about
 newsletter or podcast?
+
 00:28:18 - This would make me feel in the same way,
+
 00:28:20 but I think I would do a book, is the-
+
 00:28:21 - I think you have to do a book man.
+
 00:28:24 - Yeah, but it's so painful. (laughs)
+
 00:28:25 It's so much work.
+
 00:28:27 - It's so much work.
+
 00:28:28 Especially on the topic you're
 gonna do it on, and how much
+
 00:28:30 information you already have put in it.
+
 00:28:32 But you gotta do it.
+
 00:28:33 We all want it.
+
 00:28:34 - [Lenny] One day.
+
 00:28:35 - You gotta give the
 people what they want.
+
 00:28:36 - (laughs) I guess.
+
 00:28:38 I think they'll all get smarter
+
 00:28:39 and it'll be better the longer I wait.
+
 00:28:41 That's how I tell myself.
+
 00:28:42 - (laughs) Can I say
 that about everything?
+
 00:28:45 (Lenny laughs)
+
 00:28:45 Is that a new procrastination hack
+
 00:28:47 that I can use for my own life?
+
 00:28:48 - Yes, take it.
+
 00:28:49 - But seriously what's the
 hold up in doing in a book?
+
 00:28:51 - Just the workload that it's gonna,
+
 00:28:53 my wife actually has
 published a couple books,
+
 00:28:54 and I see the process.
+
 00:28:55 It's so hard.
+
 00:28:57 It's just like, you know,
+
 00:28:58 it's like a year of intense work.
+
 00:28:59 You don't make much from it, you know,
+
 00:29:01 maybe 0.1% of people make some from it.
+
 00:29:03 It's just the workload.
+
 00:29:04 Like, life's good, you know,
+
 00:29:06 like I talked about the newsletter,
+
 00:29:07 (Kipp and Kieran laugh)
+
 00:29:08 like why would I want to bash my head
+
 00:29:10 against the wall for a year?
+
 00:29:11 But I think I'll probably
 do it at some point, I just,
+
 00:29:13 I don't think it's time yet.
+
 00:29:15 - Why can't you do a book that's
+
 00:29:16 just a collection of the newsletters?
+
 00:29:17 - That's what, I think-
+
 00:29:18 - All us dorks would love
+
 00:29:19 to just like have on the
 shelf behind us, you know?
+
 00:29:21 - Tim Ferriss did that, right.
+
 00:29:22 - I think though, that's
 the mistake people make.
+
 00:29:24 They think it's gonna be that
 easy if they have a bunch of
+
 00:29:26 content and they're just like,
+
 00:29:27 "Oh, let's throw it together."
+
 00:29:28 But it never is.
+
 00:29:28 If you wanna make it awesome,
+
 00:29:29 like I have a high bar and I'm very
+
 00:29:31 detail-oriented about this stuff,
+
 00:29:32 so I just wanna make it super awesome,
+
 00:29:34 and it would just suck up my life.
+
 00:29:35 - Yeah, okay, so I gotta ask you
+
 00:29:37 my favorite question for
 detail-oriented people.
+
 00:29:39 It's like, how. do you know when to stop?
+
 00:29:41 Like how do you know, like
+
 00:29:43 you're editing that newsletter
 and you were just like
+
 00:29:44 pounding your head against the wall.
+
 00:29:46 Like how do you know like,
 "Okay, we're good here,
+
 00:29:48 I'm gonna stop and move
 on to the next one."
+
 00:29:50 - I think very concretely,
+
 00:29:51 it's when I don't find
 anything else to tweak
+
 00:29:54 when I look at it.
+
 00:29:55 So I look at it, I'm like,
 "Okay, let's fix this, fix that,"
+
 00:29:57 and then come back to it later in the day.
+
 00:30:00 Look at it, okay,
+
 00:30:01 maybe there's the title, I
 can make it a little better.
+
 00:30:03 And when I find that there's
 just nothing I'm changing,
+
 00:30:05 that tells me it's ready to go.
+
 00:30:07 And you know, could always be better.
+
 00:30:09 But you know, I'm publishing once a week
+
 00:30:10 and people aren't paying me like
+
 00:30:11 100 thousand dollars,
 like, 150 bucks a year.
+
 00:30:15 Like it's not gonna be
 perfect, perfect forever.
+
 00:30:17 But it's mostly when I'm
 not changing something.
+
 00:30:19 That's the sign to me.
+
 00:30:20 - Follow up to that is like,
+
 00:30:22 you've worked really hard
 to build all this stuff
+
 00:30:24 and you were like,
+
 00:30:26 "Yeah this Operation Not Start a Business,
+
 00:30:27 and you kind of now
 ended up with a business-
+
 00:30:30 - Getting a real job.
+
 00:30:31 - You're making stuff, but
+
 00:30:32 what are the unintended positive
 consequences of all this?
+
 00:30:35 Like what are the really good things
+
 00:30:37 that have happened that you're like,
+
 00:30:38 "I didn't expect this but
 like my life is way better
+
 00:30:40 because of like doing this creating."
+
 00:30:44 - I also wanna share the downsides 'cause
+
 00:30:45 I think people don't think about that,
+
 00:30:46 but there's like so many
 upsides like angel investing,
+
 00:30:49 it's so much easier.
+
 00:30:50 - That's what I was
 hoping you'd talk about.
+
 00:30:52 - Yeah, like most founders would
+
 00:30:53 love to have me involved in helping.
+
 00:30:54 So that helps a lot.
+
 00:30:55 And so I get just like access to
+
 00:30:57 a lot of cool founders and companies.
+
 00:30:58 That's one thing.
+
 00:31:00 And the other is, you know,
+
 00:31:00 I just get things like, at
 least once a day if it's just
+
 00:31:02 someone saying really nice
 things about how much the stuff
+
 00:31:04 I've done has helped them.
+
 00:31:06 So that's always nice.
+
 00:31:07 And then just meeting,
+
 00:31:08 I think meeting a lot of really
 amazing people through the
+
 00:31:10 community, through the
 founders that I talk to.
+
 00:31:12 Like the network has gotten
 really big and interesting.
+
 00:31:14 On the downsides, I have
 no time off, you know,
+
 00:31:17 no PTO, no one's gonna
 pay me to take time off.
+
 00:31:20 No 401K matching, no health insurance.
+
 00:31:22 Like I just have to go
 Obamacare, no disability.
+
 00:31:24 You know, if I like get injured,
+
 00:31:25 I don't know what happens.
+
 00:31:27 Like you just, you know, stop.
+
 00:31:28 - Yeah, if you can't type,
 well that's concerning, right?
+
 00:31:31 You're like, "I don't know
 if I can go skiing guys.
+
 00:31:33 I need my arms."
+
 00:31:35 - So I worry about that a little bit.
+
 00:31:36 Hasn't been a problem yet.
+
 00:31:37 - Like one of the great things,
+
 00:31:38 but I always say like where
 everyone really wants to end up,
+
 00:31:41 even when people talk about like,
+
 00:31:42 I wanna semi-retire or retire,
+
 00:31:44 it's like I just don't wanna be answerable
+
 00:31:45 to someone else's schedule.
+
 00:31:46 Like I actually wanna dictate my own time
+
 00:31:48 and own my own calendar.
+
 00:31:49 And I think there's, obviously
 you still have to work,
+
 00:31:53 you know, a certain amount of hours a week
+
 00:31:54 to do the work that you do.
+
 00:31:56 Like you control your own time.
+
 00:31:57 And there's just something
 I think magical about like,
+
 00:31:59 being answerable to your own calendar
+
 00:32:01 and not being answerable
 to someone else's calendar.
+
 00:32:03 - 100%, that part is amazing.
+
 00:32:05 There's this book that you probably read,
+
 00:32:07 The Subtle Art of Not Giving a Fuck,
+
 00:32:08 and he talks about how like
 people think they want just
+
 00:32:11 freedom from everything,
+
 00:32:12 but it turns out, we
 still wanna solve problems
+
 00:32:14 and do interesting things.
+
 00:32:16 So I actually thought I'd, I was like,
+
 00:32:18 I was trying to try to
 mini-retire a little bit.
+
 00:32:20 I was like, I'll just
 do the simplest thing
+
 00:32:22 just to make enough money
 and that'll be great.
+
 00:32:23 But like, at this point I
 have full-time job hours,
+
 00:32:26 I work a lot, and it's hard to resist
+
 00:32:28 I think for folks like us.
+
 00:32:30 Like we just don't wanna
 sit around and just,
+
 00:32:32 you know, check Twitter
 all day and watch TV.
+
 00:32:34 (Kieran laughs)
+
 00:32:35 - Well we don't want the brain to fade.
+
 00:32:37 You know, we wanna go and
+
 00:32:38 do something that helps people, right?
+
 00:32:39 - You just wanna do
 interesting things and yeah.
+
 00:32:41 We'll end up finding work for ourselves.
+
 00:32:43 That's kinda what I've done.
+
 00:32:44 I just keep finding like the podcast,
+
 00:32:45 like I don't wanna do a
 podcast, I don't need more work.
+
 00:32:47 But it's hard to resist 'cause
 it's just like there's a big
+
 00:32:50 opportunity and it's interesting
+
 00:32:51 and people are keep asking you for it so.
+
 00:32:52 - Well and it's also collaborative.
+
 00:32:53 You get to meet a lot of really
 awesome people that maybe
+
 00:32:55 you don't talk to as much
+
 00:32:56 if you're just heads down writing, right?
+
 00:32:59 So it's probably a different kind
+
 00:32:59 of modality of working too, right?
+
 00:33:01 - There is another downside
 of the creator life is like,
+
 00:33:03 it's kind of, you're alone.
+
 00:33:04 Like at least in the newsletter life,
+
 00:33:06 and it's kind of fun to work on a team.
+
 00:33:08 The other downside I forgot
 to mention is there's like,
+
 00:33:11 people think they're gonna
 create this like viral TikTok
+
 00:33:13 video or some amazing post or
 some amazing podcast, and it's
+
 00:33:17 just gonna go blow up and
 the life will be so great.
+
 00:33:18 But you realize that's
 just like one thing,
+
 00:33:20 one time, and then it
 fades and you're done.
+
 00:33:23 No one cares about it again,
 like a few days later.
+
 00:33:25 And you realize it's this never
 ending treadmill where you
+
 00:33:28 consistently have to keep
 putting stuff out forever.
+
 00:33:31 Like, I don't know how I
 even get off this treadmill.
+
 00:33:32 (all laugh)
+
 00:33:33 - I don't either.
+
 00:33:36 - Like, a podcast you can stop,
+
 00:33:36 'cause it's app based I'm guessing,
+
 00:33:39 like the newsletter subscription
+
 00:33:40 and people are paying for the next year,
+
 00:33:42 every day there's an annual
 plan being bought every day.
+
 00:33:44 So at least for a year
 I have to keep it going.
+
 00:33:46 But like, stopping it sounds really scary
+
 00:33:48 'cause then I lose the income.
+
 00:33:50 So I don't really know the exit path
+
 00:33:51 for something like this.
+
 00:33:52 I don't think about it too much.
+
 00:33:53 (all laugh)
+
 00:33:54 But that is one downside is
 like, you think it's like,
+
 00:33:56 "Cool, I'm gonna get a viral video,
+
 00:33:58 it's gonna be so great,"
+
 00:34:00 but you have to keep
 doing that for a long time
+
 00:34:01 and it gets less fun.
+
 00:34:02 So I will say a lesson there is,
+
 00:34:04 make sure if you go down this path,
+
 00:34:06 work on something that
 really is interesting to you,
+
 00:34:08 that you're curious about,
+
 00:34:10 that you really care about,
 versus creating this job for
+
 00:34:12 yourself that sucks.
+
 00:34:13 Where you're like writing about,
+
 00:34:14 I don't know, Bitcoin all
 day and you're just like,
+
 00:34:16 "I don't care about this stuff."
+
 00:34:17 (all laugh)
+
 00:34:18 - Trying to scam people.
+
 00:34:19 - Those are terrible work
 examples, Bitcoin, it's great.
+
 00:34:21 - It is interesting, right?
+
 00:34:23 Like we talked about this in
 an episode before about the
+
 00:34:25 creator, for very few creators
 the exit will be some sort
+
 00:34:29 of sale, because they are the brand.
+
 00:34:30 Like Mr. Beast, you know
 apparently got offered
+
 00:34:32 a billion dollars for his YouTube channel,
+
 00:34:35 and I suspect you can maybe say,
+
 00:34:36 "Oh, maybe he can like get himself
+
 00:34:37 out of being on the brand."
+
 00:34:39 Like, Mr. Beast is a brand
 but it's not his face.
+
 00:34:41 Although it's still very hard to imagine.
+
 00:34:42 But that's one thing for creators,
+
 00:34:44 is like they are the brand.
+
 00:34:46 And you have to like,
+
 00:34:47 I think you have to be explicit over time.
+
 00:34:49 If you want to make that into
 a brand that's not you front
+
 00:34:52 and center, or like they'll
 always be the brand,
+
 00:34:53 but I'm not sure then what my exit is.
+
 00:34:55 - Maybe don't call it Lenny's Newsletter
+
 00:34:56 if you wanna do that.
+
 00:34:57 (all laugh)
+
 00:34:58 - Or you're gonna have to
 just sell it to another Lenny.
+
 00:35:01 There's one Lenny out there.
+
 00:35:02 They love this stuff.
+
 00:35:03 (Lenny and Kieran talk over each other)
+
 00:35:05 - Oh, the Lenny's newsletter.
+
 00:35:06 I mean it's you also underscore
+
 00:35:08 the importance that name doesn't matter,
+
 00:35:10 the content matters.
+
 00:35:11 - [Lenny] That's right.
+
 00:35:12 - Which, everybody spends like six months
+
 00:35:13 coming up for a name.
+
 00:35:14 Finding the perfect name for something,
+
 00:35:16 or the perfect domain name,
+
 00:35:18 and that does not matter.
+
 00:35:19 What you hit matters is like,
+
 00:35:21 hey, no, find something you like,
+
 00:35:22 have a process, and grind it out.
+
 00:35:24 - Grind it out.
+
 00:35:25 - Like, yeah the name came from,
+
 00:35:26 I was just signing up for a
 SubStack, and their default
+
 00:35:28 recommendation when you're
 signing up as like your first
+
 00:35:30 name newsletter, 'cause I
 had no plan with this thing.
+
 00:35:33 So I'm like, oh, Lenny's newsletter.
+
 00:35:34 (all laugh)
+
 00:35:35 - That's hilarious.
+
 00:35:36 That's a great story.
+
 00:35:37 As as we're closing things out,
+
 00:35:38 one last question from me,
+
 00:35:40 and then Kieran if you
 have anything jump in.
+
 00:35:41 It's like if somebody is
 listening to this and they've been
+
 00:35:44 on the sidelines and
 they're like, "You know,
+
 00:35:45 I've been thinking about
 a newsletter, podcast,
+
 00:35:47 like kind of, that's what
 gives me energy not my job."
+
 00:35:50 Like what would you tell them
 to try to persuade them that
+
 00:35:53 it's a worthy thing for them
 to do, or to tell them, "No,
+
 00:35:57 you don't wanna do that
 because it's just gonna be a
+
 00:35:59 complete miserable grind."
+
 00:36:01 - This is gonna sound obvious,
+
 00:36:02 but honestly it's just, do it.
+
 00:36:03 Stop thinking about it.
+
 00:36:05 Just like write a thing,
 and see what you think.
+
 00:36:07 See if you enjoy it,
 see if people value it.
+
 00:36:08 That's the more important part.
+
 00:36:09 And like I will say writing
 is like, I don't know,
+
 00:36:12 Hemingway never said this probably,
+
 00:36:14 but people attribute it to
 him, that "Writing is easy.
+
 00:36:16 You just sit at the keyboard and bleed,"
+
 00:36:18 (Kipp and Kieran laugh)
+
 00:36:19 and that's how it feels a lot of times.
+
 00:36:20 And so it's not gonna be easy easy,
+
 00:36:23 but just like, that's all you have to do.
+
 00:36:25 Just like SubStack, you sign up,
+
 00:36:26 it's free, you write a thing,
+
 00:36:28 you could put it out there.
+
 00:36:29 Nobody's gonna remember if it sucks.
+
 00:36:31 All you need to do is
 just like write the thing,
+
 00:36:33 write that something that you
 want to get outta your head.
+
 00:36:35 Write something you're trying
 to remember or crystallize and
+
 00:36:38 just see how it feels.
+
 00:36:39 Is this cool?
+
 00:36:40 Do people care about what you're writing?
+
 00:36:41 And part of it is just realizing,
+
 00:36:43 do I enjoy this and do
 I wanna keep doing this?
+
 00:36:45 And you only know if you start doing it.
+
 00:36:47 So yeah, it's like such cliche advice,
+
 00:36:49 but I think it's just like,
 it's so easy to write.
+
 00:36:51 You're not gonna record
 a video, that's harder.
+
 00:36:53 Just like write a thing, see how it goes.
+
 00:36:55 - The thing I really took away as well,
+
 00:36:56 is if you look at Japan, 10 year olds,
+
 00:36:58 there's a higher percentage
 of 10 year olds in Japan that
+
 00:37:01 wanna be a YouTuber than anything else.
+
 00:37:03 Like, everyone wants the creator life.
+
 00:37:05 But really your kind of points are,
+
 00:37:07 it's really the
 perseverance and the grind.
+
 00:37:09 Like everything is a grind,
+
 00:37:10 it's just a grind that you choose.
+
 00:37:11 And the other, I think lesson that's
+
 00:37:13 really important for people to take
+
 00:37:14 away is, what makes great writers great
+
 00:37:16 is not what they put on the page,
+
 00:37:18 it's what they take off the page, right?
+
 00:37:20 Like that editing is
 like so, so important.
+
 00:37:21 And I think that's a really
 great takeaway for everyone.
+
 00:37:23 - And I think to add to
 that, like introductions,
+
 00:37:25 everyone always such long introductions,
+
 00:37:27 like just skip the intro
 and just get right to it.
+
 00:37:30 That's something that I've learned also.
+
 00:37:31 - I Love it.
+
 00:37:32 This was a great conversation Lenny,
+
 00:37:33 I know you are busy and you're taking time
+
 00:37:35 away from your own creating
+
 00:37:37 to come and and and help us create.
+
 00:37:39 So thank you first and foremost.
+
 00:37:40 - [Lenny] Absolutely.
+
 00:37:41 - And everybody should go subscribe
+
 00:37:42 to Lenny's pod and Lenny's Newsletter.
+
 00:37:44 And the last thing I wanted to ask you
+
 00:37:46 before we jumped off is,
+
 00:37:47 like, who else's writing do you love?
+
 00:37:49 Like what are the other
 newsletters you're reading?
+
 00:37:51 Like, what else would you
 have people take a look at?
+
 00:37:53 - I always feel worried
 not mentioning everyone
+
 00:37:55 that's awesome.
+
 00:37:56 But anyway-
+
 00:37:58 - Well, I'll limit you to three.
+
 00:37:59 You just have to name three,
+
 00:38:01 and if they don't make it, it's okay.
+
 00:38:02 Whatever you think.
+
 00:38:03 - Noah Smith, he's got a
 newsletter called No Opinions,
+
 00:38:06 which I just learned so
 much from reading his stuff.
+
 00:38:09 He's on SubStack,
+
 00:38:10 he's actually like right
 below me in the rankings.
+
 00:38:12 So it's like counterproductive
 to recommend him,
+
 00:38:14 (Kipp and Kieran laugh)
+
 00:38:15 but he's that good.
+
 00:38:16 And then Emily Oster,
+
 00:38:18 like family, kid stuff is always great.
+
 00:38:20 I don't know if y'all know
 her but she writes incredible
+
 00:38:22 stuff on kids stuff.
+
 00:38:24 So that one is awesome.
+
 00:38:25 And she is on SubStack also.
+
 00:38:27 And then Tyler Cohen is the other one
+
 00:38:29 that comes to mind immediately.
+
 00:38:31 He's got this podcast called
 Conversation with Tyler.
+
 00:38:34 He's got a blog called Marginal Revolution
+
 00:38:36 I think it's called.
+
 00:38:37 And I always just learn so much
 every time I hear him talk.
+
 00:38:40 And he's an amazing interviewer too.
+
 00:38:42 - Love that.
+
 00:38:43 I'm gonna go check out Tyler 'cause
+
 00:38:44 I'm always looking to
 be a better interviewer.
+
 00:38:45 Speaking of that though,
 Lenny, thank you so much.
+
 00:38:47 We really deeply appreciate you
+
 00:38:49 coming on Marketing
 Against the Grain today.
+
 00:38:51 Thank you so much for your time
+
 00:38:52 and we'll talk to you again real soon.
+
 00:38:53 (funky music)
+
 00:38:55 - This data is wrong every freaking time.
+
 00:38:57 - Have you heard of HubSpot?
+
 00:38:58 HubSpot is a CRM platform where
+
 00:39:01 everything is fully integrated.
+
 00:39:02 - Whoa, I can see the client's
 whole history, calls, support
+
 00:39:05 tickets, emails, and here's
 a task from three days ago
+
 00:39:09 I totally missed.
+
 00:39:11 - [Announcer] HubSpot, grow better.
