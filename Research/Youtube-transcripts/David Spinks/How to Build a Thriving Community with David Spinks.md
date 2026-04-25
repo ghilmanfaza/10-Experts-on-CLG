@@ -217,106 +217,207 @@
 00:04:22 article that answers a question, how do
 
 00:04:24 you connect the person with a question
+
 00:04:26 to someone else in the community who has
+
 00:04:28 an answer? Um how do you help them
+
 00:04:31 collaborate? How do you help them teach
+
 00:04:34 each other? How do you help them build
+
 00:04:36 things together? So marketing you help
+
 00:04:38 people. Community you help people help
+
 00:04:40 each other.
+
 00:04:42 What would you say
+
 00:04:44 the
+
 00:04:46 must have traits of a successful
+
 00:04:48 community are?
+
 00:04:52 There's um there's a lot of different
+
 00:04:54 theories on what constitutes a community
+
 00:04:56 and I try not to be overly purist and
+
 00:04:59 what is or isn't a community because
+
 00:05:00 there's a whole range of depth that you
+
 00:05:03 can have. And so if you go to a an
+
 00:05:07 emotional support group, it's going to
+
 00:05:09 have different standards of quality than
+
 00:05:12 a customer support forum, right? Um
+
 00:05:15 there's different expectations around
+
 00:05:17 vulnerability, around trust, around
+
 00:05:19 safety. Um and so ultimately I think you
+
 00:05:23 need to have engagement. So people need
+
 00:05:25 to be talking to each other. Uh they
+
 00:05:28 need to be showing up. They need to be
+
 00:05:29 participating. Um they have to feel
+
 00:05:32 connected to each other. So there's a
+
 00:05:34 sense of that connection, that emotional
+
 00:05:36 connection, that um that uh
+
 00:05:39 interconnectedness between the group.
+
 00:05:41 Um, and often you also see a sense of
+
 00:05:43 shared identity. So you'll see them have
+
 00:05:47 a similar name, language, symbols,
+
 00:05:49 norms, cultural uh cultural norms. Um,
+
 00:05:53 those kinds of factors will start to
+
 00:05:54 form. That's how you know you you're
+
 00:05:56 starting to see a community. People are
+
 00:05:58 showing up. They feel connected to each
+
 00:06:00 other. They feel a sense of belonging to
+
 00:06:02 each other. And you're starting to see
+
 00:06:04 those elements of social identity start
+
 00:06:06 to form.
+
 00:06:08 When do you think for like so you've
+
 00:06:10 helped a lot of businesses when do you
+
 00:06:12 think is the time to start formalizing
+
 00:06:15 the process of community for business
+
 00:06:18 like when is that that point of because
+
 00:06:21 I know there's like you have can have a
+
 00:06:23 community of just people talking but
+
 00:06:26 like in a place where people can you can
+
 00:06:30 control the engagement you can help
+
 00:06:33 people like a forum or some sort of
+
 00:06:36 things like that I mean I I think you
+
 00:06:38 should start very organically. I think
+
 00:06:40 communities emerge. Uh they're not
+
 00:06:42 something that you can just force into
+
 00:06:44 existence. You're going to create a
+
 00:06:46 space and if you tap into something that
+
 00:06:49 people actually want to talk about and
+
 00:06:51 connect around, then they will fill that
+
 00:06:53 space with their energy, with their with
+
 00:06:56 their actions, with their contributions.
+
 00:06:58 And you can start that on day one. And
+
 00:07:00 frankly, there's no company that doesn't
+
 00:07:02 start that uh very early because that
+
 00:07:05 early adopter group of customers is
+
 00:07:08 essentially your first community. Um
+
 00:07:10 now, you may not have a conversational
+
 00:07:12 space for them to talk to each other
+
 00:07:14 yet. Um and that's okay. Like the the
+
 00:07:17 starting to build community starts with
+
 00:07:18 building trust with those people. Um so
+
 00:07:21 that in the future you could bring them
+
 00:07:23 together. Um, but for now it might just
+
 00:07:25 be you building relationships with each
+
 00:07:28 of those customers and listening to them
+
 00:07:30 and understanding their needs and and
+
 00:07:33 organically that sense of identity will
+
 00:07:35 start to form. Um, when when should you
+
 00:07:38 actually launch a conversational space?
+
 00:07:40 Um, which by the way community could be
+
 00:07:42 events. So, it could be an event you
+
 00:07:44 host um in person or online, something
+
 00:07:47 with a beginning and an end, something
+
 00:07:48 that's asynchronous or I mean
+
 00:07:50 synchronous or you can do the the
+
 00:07:53 asynchronous where it's like a forum or
+
 00:07:56 a chat channel. Um something that's
+
 00:07:59 ongoing and doesn't necessarily have a
+
 00:08:01 beginning and an end. Um so, you can do
+
 00:08:03 those events. I like doing events first
+
 00:08:06 actually because they have a beginning
+
 00:08:08 and an end. So, they're very easy to
+
 00:08:09 test and iterate. you're not making this
+
 00:08:11 really long-term commitment. Um whereas
+
 00:08:15 if you're launching a forum or a Slack
+
 00:08:17 channel or a Discord or a circle or
+
 00:08:19 something like that, that's a really
+
 00:08:21 long-term commitment. It's going to take
+
 00:08:23 a long time for that community to really
 00:08:26 take form within that conversational
 00:08:28 space. And so I wouldn't launch that
